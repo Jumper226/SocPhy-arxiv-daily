@@ -5,7 +5,7 @@ repo_name: "SocPhy-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 200
 
 publish_readme: True
 publish_gitpage: True
@@ -23,8 +23,11 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "higher-order network":
-        filters: ["higher-order"]
-    "cooperation":
-        filters: ["cooperation", "reciprocity"]
-    "reconstruction":
-        filters: ["reconstruction"]
+        filters: ["higher-order", "higher-order network", "higher-order interaction"]
+    "evolutionary game":
+        filters: ["evolutionary game", "social dilemma", "evolution of cooperation", "evolutionary dynamics"]
+    "network reconstruction":
+        filters: ["network reconstruction"]
+    "temporal network":
+        filters: ["temporal network", "temporal higher-order network"]
+    
