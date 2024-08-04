@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Counterclockwise Dissipativity, Potential Games and Evolutionary Nash Equilibrium Learning**|Nuno C. Martins et.al.|[2408.00647](http://arxiv.org/abs/2408.00647)|null|
 |**2024-07-30**|**Generalized replicator dynamics based on mean-field pairwise comparison dynamic**|Hidekazu Yoshioka et.al.|[2407.20751](http://arxiv.org/abs/2407.20751)|null|
 |**2024-07-29**|**Evolution of cooperation in the public goods game with Q-learning**|Guozhong Zheng et.al.|[2407.19851](http://arxiv.org/abs/2407.19851)|null|
 |**2024-07-29**|**The evolution of cooperation with Q-learning: the impact of information perception**|Guozhong Zheng et.al.|[2407.19634](http://arxiv.org/abs/2407.19634)|null|
