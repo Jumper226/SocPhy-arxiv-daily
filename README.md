@@ -29,6 +29,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Game Theory Based Community-Aware Opinion Dynamics**|Shanfan Zhang et.al.|[2408.01196](http://arxiv.org/abs/2408.01196)|null|
+|**2024-08-02**|**Application of Superconducting Technology in the Electricity Industry: A Game-Theoretic Analysis of Government Subsidy Policies and Power Company Equipment Upgrade Decisions**|Mingyang Li et.al.|[2408.01017](http://arxiv.org/abs/2408.01017)|null|
 |**2024-08-01**|**Counterclockwise Dissipativity, Potential Games and Evolutionary Nash Equilibrium Learning**|Nuno C. Martins et.al.|[2408.00647](http://arxiv.org/abs/2408.00647)|null|
 |**2024-07-30**|**Generalized replicator dynamics based on mean-field pairwise comparison dynamic**|Hidekazu Yoshioka et.al.|[2407.20751](http://arxiv.org/abs/2407.20751)|null|
 |**2024-07-29**|**Evolution of cooperation in the public goods game with Q-learning**|Guozhong Zheng et.al.|[2407.19851](http://arxiv.org/abs/2407.19851)|null|
