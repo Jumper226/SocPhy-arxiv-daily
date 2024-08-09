@@ -29,6 +29,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Learning Fair Cooperation in Mixed-Motive Games with Indirect Reciprocity**|Martin Smit et.al.|[2408.04549](http://arxiv.org/abs/2408.04549)|**[link](https://github.com/sias-uva/indirect-reciprocity)**|
 |**2024-08-08**|**Environment Complexity and Nash Equilibria in a Sequential Social Dilemma**|Mustafa Yasir et.al.|[2408.02148](http://arxiv.org/abs/2408.02148)|null|
 |**2024-08-04**|**Evolutionary dynamics in stochastic nonlinear public goods games**|Wenqiang Zhu et.al.|[2408.02042](http://arxiv.org/abs/2408.02042)|null|
 |**2024-08-02**|**Game Theory Based Community-Aware Opinion Dynamics**|Shanfan Zhang et.al.|[2408.01196](http://arxiv.org/abs/2408.01196)|null|
