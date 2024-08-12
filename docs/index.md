@@ -437,6 +437,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Higher-Order Temporal Network Prediction and Interpretation**|H. A. Bart Peters et.al.|[2408.05165](http://arxiv.org/abs/2408.05165)|null|
 |**2024-08-06**|**Measuring interconnectedness of infectious diseases in funded and unfunded research: a temporal network analysis on bibliometric data 1995-2022**|Anbang Du et.al.|[2408.03140](http://arxiv.org/abs/2408.03140)|null|
 |**2024-08-05**|**The Role of Functional Muscle Networks in Improving Hand Gesture Perception for Human-Machine Interfaces**|Costanza Armanini et.al.|[2408.02547](http://arxiv.org/abs/2408.02547)|null|
 |**2024-07-30**|**DuA: Dual Attentive Transformer in Long-Term Continuous EEG Emotion Analysis**|Yue Pan et.al.|[2407.20519](http://arxiv.org/abs/2407.20519)|null|
