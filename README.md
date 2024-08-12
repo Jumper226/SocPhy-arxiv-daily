@@ -111,7 +111,7 @@
 |**2024-03-09**|**Mathematics of multi-agent learning systems at the interface of game theory and artificial intelligence**|Long Wang et.al.|[2403.07017](http://arxiv.org/abs/2403.07017)|null|
 |**2024-03-11**|**Partner selection and evolution of out-group avoidance**|Hirofumi Takesue et.al.|[2403.06893](http://arxiv.org/abs/2403.06893)|null|
 |**2024-03-07**|**Random Evolutionary Dynamics in Predator-Prey Systems Yields Large, Clustered Ecosystems**|Christian Hamster et.al.|[2403.04506](http://arxiv.org/abs/2403.04506)|**[link](https://github.com/chshamster/speciatinglv)**|
-|**2024-07-26**|**Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents**|Elizaveta Tennant et.al.|[2403.04202](http://arxiv.org/abs/2403.04202)|null|
+|**2024-07-26**|**Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents**|Elizaveta Tennant et.al.|[2403.04202](http://arxiv.org/abs/2403.04202)|**[link](https://github.com/Liza-Tennant/moral_MARL)**|
 |**2024-03-18**|**Criminal organizations exhibit hysteresis, resilience, and robustness by balancing security and efficiency**|Casper van Elteren et.al.|[2403.03720](http://arxiv.org/abs/2403.03720)|null|
 |**2024-03-06**|**Adaptive coordination promotes collective cooperation in repeated social dilemmas**|Feipeng Zhang et.al.|[2403.03497](http://arxiv.org/abs/2403.03497)|null|
 |**2024-03-05**|**When selection pays: structured public goods game with a generalized interaction mode**|Ju Han et.al.|[2403.02740](http://arxiv.org/abs/2403.02740)|null|
@@ -523,7 +523,7 @@
 |**2024-07-07**|**BOPIM: Bayesian Optimization for influence maximization on temporal networks**|Eric Yanchenko et.al.|[2308.04700](http://arxiv.org/abs/2308.04700)|**[link](https://github.com/eyanchenko/bopim)**|
 |**2023-12-28**|**On damping a control system with global aftereffect on quantum graphs**|Sergey Buterin et.al.|[2308.00496](http://arxiv.org/abs/2308.00496)|null|
 |**2023-07-31**|**Capturing Co-existing Distortions in User-Generated Content for No-reference Video Quality Assessment**|Kun Yuan et.al.|[2307.16813](http://arxiv.org/abs/2307.16813)|null|
-|**2023-07-25**|**A model for efficient dynamical ranking in networks**|Andrea Della Vecchia et.al.|[2307.13544](http://arxiv.org/abs/2307.13544)|null|
+|**2023-07-25**|**A model for efficient dynamical ranking in networks**|Andrea Della Vecchia et.al.|[2307.13544](http://arxiv.org/abs/2307.13544)|**[link](https://github.com/cdebacco/dynspringrank)**|
 |**2023-07-23**|**Temporal network analysis: Introduction, methods and detailed tutorial with R**|Mohammed Saqr et.al.|[2307.12339](http://arxiv.org/abs/2307.12339)|null|
 |**2023-07-15**|**Optimizing Strategic and Operational Decisions of Car Sharing Systems under Demand Uncertainty and Substitution**|Sinan Emre Kosunda et.al.|[2307.07820](http://arxiv.org/abs/2307.07820)|null|
 |**2023-07-10**|**Temporal network compression via network hashing**|Rémi Vaudaine et.al.|[2307.04890](http://arxiv.org/abs/2307.04890)|null|
