@@ -29,6 +29,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Large Model Strategic Thinking, Small Model Efficiency: Transferring Theory of Mind in Large Language Models**|Nunzio Lore et.al.|[2408.05241](http://arxiv.org/abs/2408.05241)|null|
 |**2024-08-08**|**Learning Fair Cooperation in Mixed-Motive Games with Indirect Reciprocity**|Martin Smit et.al.|[2408.04549](http://arxiv.org/abs/2408.04549)|**[link](https://github.com/sias-uva/indirect-reciprocity)**|
 |**2024-08-08**|**Environment Complexity and Nash Equilibria in a Sequential Social Dilemma**|Mustafa Yasir et.al.|[2408.02148](http://arxiv.org/abs/2408.02148)|null|
 |**2024-08-04**|**Evolutionary dynamics in stochastic nonlinear public goods games**|Wenqiang Zhu et.al.|[2408.02042](http://arxiv.org/abs/2408.02042)|null|
@@ -449,6 +450,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-10**|**Temporal network modeling with online and hidden vertices based on the birth and death process**|Ziyan Zeng et.al.|[2408.05469](http://arxiv.org/abs/2408.05469)|null|
 |**2024-08-09**|**Higher-Order Temporal Network Prediction and Interpretation**|H. A. Bart Peters et.al.|[2408.05165](http://arxiv.org/abs/2408.05165)|null|
 |**2024-08-06**|**Measuring interconnectedness of infectious diseases in funded and unfunded research: a temporal network analysis on bibliometric data 1995-2022**|Anbang Du et.al.|[2408.03140](http://arxiv.org/abs/2408.03140)|null|
 |**2024-08-05**|**The Role of Functional Muscle Networks in Improving Hand Gesture Perception for Human-Machine Interfaces**|Costanza Armanini et.al.|[2408.02547](http://arxiv.org/abs/2408.02547)|null|
@@ -465,7 +467,7 @@
 |**2024-06-14**|**Enhanced Intrusion Detection System for Multiclass Classification in UAV Networks**|Safaa Menssouri et.al.|[2406.10417](http://arxiv.org/abs/2406.10417)|null|
 |**2024-06-13**|**Temporal Link Prediction in Social Networks Based on Agent Behavior Synchrony and a Cognitive Mechanism**|Yueran Duan et.al.|[2406.06814](http://arxiv.org/abs/2406.06814)|**[link](https://github.com/nurek-mateusz/cognitive-temporal-link-prediction)**|
 |**2024-06-01**|**DSCA: A Digital Subtraction Angiography Sequence Dataset and Spatio-Temporal Model for Cerebral Artery Segmentation**|Qihang Xie et.al.|[2406.00341](http://arxiv.org/abs/2406.00341)|null|
-|**2024-05-28**|**Network Diffusion -- Framework to Simulate Spreading Processes in Complex Networks**|Michał Czuba et.al.|[2405.18085](http://arxiv.org/abs/2405.18085)|null|
+|**2024-05-28**|**Network Diffusion -- Framework to Simulate Spreading Processes in Complex Networks**|Michał Czuba et.al.|[2405.18085](http://arxiv.org/abs/2405.18085)|**[link](https://github.com/anty-filidor/bdma-experiments)**|
 |**2024-05-27**|**Gaussian Embedding of Temporal Networks**|Raphaël Romero et.al.|[2405.17253](http://arxiv.org/abs/2405.17253)|**[link](https://github.com/aida-ugent/tgne)**|
 |**2024-04-23**|**Deep Multi-View Channel-Wise Spatio-Temporal Network for Traffic Flow Prediction**|Hao Miao et.al.|[2404.15034](http://arxiv.org/abs/2404.15034)|null|
 |**2024-04-11**|**Promoting collective cooperation through temporal interactions**|Yao Meng et.al.|[2404.07530](http://arxiv.org/abs/2404.07530)|null|
