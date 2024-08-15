@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,14 +23,14 @@
 |**2019-12-18**|**Higher-Order Topology in Bismuth**|Frank Schindler et.al.|[1802.02585](http://arxiv.org/abs/1802.02585)|null|
 |**2017-10-08**|**An Expressive Probabilistic Temporal Logic**|Bruno Woltzenlogel Paleo et.al.|[1603.07453](http://arxiv.org/abs/1603.07453)|**[link](https://github.com/Paradoxika/ProbLogic)**|
 
-<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
 
 ## evolutionary game
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-13**|**Dynamic Pricing of Electric Vehicle Charging Station Alliances Under Information Asymmetry**|Zeyu Liu et.al.|[2408.06645](http://arxiv.org/abs/2408.06645)|null|
-|**2024-08-05**|**Large Model Strategic Thinking, Small Model Efficiency: Transferring Theory of Mind in Large Language Models**|Nunzio Lore et.al.|[2408.05241](http://arxiv.org/abs/2408.05241)|null|
+|**2024-08-13**|**Large Model Strategic Thinking, Small Model Efficiency: Transferring Theory of Mind in Large Language Models**|Nunzio Lore et.al.|[2408.05241](http://arxiv.org/abs/2408.05241)|null|
 |**2024-08-08**|**Learning Fair Cooperation in Mixed-Motive Games with Indirect Reciprocity**|Martin Smit et.al.|[2408.04549](http://arxiv.org/abs/2408.04549)|**[link](https://github.com/sias-uva/indirect-reciprocity)**|
 |**2024-08-08**|**Environment Complexity and Nash Equilibria in a Sequential Social Dilemma**|Mustafa Yasir et.al.|[2408.02148](http://arxiv.org/abs/2408.02148)|null|
 |**2024-08-04**|**Evolutionary dynamics in stochastic nonlinear public goods games**|Wenqiang Zhu et.al.|[2408.02042](http://arxiv.org/abs/2408.02042)|null|
@@ -238,7 +238,7 @@
 |**2023-06-02**|**Deterministic Approximation of a Stochastic Imitation Dynamics with Memory**|Ozgur Aydogmus et.al.|[2306.01448](http://arxiv.org/abs/2306.01448)|null|
 |**2024-02-25**|**Evolutionary dynamics with temporal higher-order interactions**|Xiaochen Wang et.al.|[2306.01300](http://arxiv.org/abs/2306.01300)|null|
 
-<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
 
 ## network reconstruction
 
@@ -445,7 +445,7 @@
 |**2016-05-27**|**Growth against entropy in bacterial metabolism: the phenotypic trade-off behind empirical growth rate distributions in E. coli**|Daniele De Martino et.al.|[1601.03243](http://arxiv.org/abs/1601.03243)|null|
 |**2015-12-18**|**Network Cartography: Seeing the Forest and the Trees**|Jia Wang et.al.|[1512.06021](http://arxiv.org/abs/1512.06021)|null|
 
-<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
 
 ## temporal network
 
@@ -656,7 +656,7 @@
 |**2023-04-14**|**The emergence of burstiness in temporal networks**|Anzhi Sheng et.al.|[2112.10527](http://arxiv.org/abs/2112.10527)|null|
 |**2021-12-15**|**Epidemic spreading in populations of mobile agents with adaptive behavioral response**|Paulo Cesar Ventura et.al.|[2112.07829](http://arxiv.org/abs/2112.07829)|null|
 
-<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jumper226/SocPhy-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jumper226/SocPhy-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -22,7 +22,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-13**|**Dynamic Pricing of Electric Vehicle Charging Station Alliances Under Information Asymmetry**|Zeyu Liu et.al.|[2408.06645](http://arxiv.org/abs/2408.06645)|null|
-|**2024-08-05**|**Large Model Strategic Thinking, Small Model Efficiency: Transferring Theory of Mind in Large Language Models**|Nunzio Lore et.al.|[2408.05241](http://arxiv.org/abs/2408.05241)|null|
+|**2024-08-13**|**Large Model Strategic Thinking, Small Model Efficiency: Transferring Theory of Mind in Large Language Models**|Nunzio Lore et.al.|[2408.05241](http://arxiv.org/abs/2408.05241)|null|
 |**2024-08-08**|**Learning Fair Cooperation in Mixed-Motive Games with Indirect Reciprocity**|Martin Smit et.al.|[2408.04549](http://arxiv.org/abs/2408.04549)|**[link](https://github.com/sias-uva/indirect-reciprocity)**|
 |**2024-08-08**|**Environment Complexity and Nash Equilibria in a Sequential Social Dilemma**|Mustafa Yasir et.al.|[2408.02148](http://arxiv.org/abs/2408.02148)|null|
 |**2024-08-04**|**Evolutionary dynamics in stochastic nonlinear public goods games**|Wenqiang Zhu et.al.|[2408.02042](http://arxiv.org/abs/2408.02042)|null|
