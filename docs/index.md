@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -25,8 +25,8 @@ layout: default
 |**2024-08-13**|**Large Model Strategic Thinking, Small Model Efficiency: Transferring Theory of Mind in Large Language Models**|Nunzio Lore et.al.|[2408.05241](http://arxiv.org/abs/2408.05241)|null|
 |**2024-08-08**|**Learning Fair Cooperation in Mixed-Motive Games with Indirect Reciprocity**|Martin Smit et.al.|[2408.04549](http://arxiv.org/abs/2408.04549)|**[link](https://github.com/sias-uva/indirect-reciprocity)**|
 |**2024-08-08**|**Environment Complexity and Nash Equilibria in a Sequential Social Dilemma**|Mustafa Yasir et.al.|[2408.02148](http://arxiv.org/abs/2408.02148)|null|
-|**2024-08-04**|**Evolutionary dynamics in stochastic nonlinear public goods games**|Wenqiang Zhu et.al.|[2408.02042](http://arxiv.org/abs/2408.02042)|null|
-|**2024-08-02**|**Game Theory Based Community-Aware Opinion Dynamics**|Shanfan Zhang et.al.|[2408.01196](http://arxiv.org/abs/2408.01196)|null|
+|**2024-08-04**|**Evolutionary dynamics in stochastic nonlinear public goods games**|Wenqiang Zhu et.al.|[2408.02042](http://arxiv.org/abs/2408.02042)|**[link](https://github.com/JoeWynn7/Stochastic-PGG)**|
+|**2024-08-02**|**Game Theory Based Community-Aware Opinion Dynamics**|Shanfan Zhang et.al.|[2408.01196](http://arxiv.org/abs/2408.01196)|**[link](https://github.com/ZINUX1998/GCAOFP)**|
 |**2024-08-02**|**Application of Superconducting Technology in the Electricity Industry: A Game-Theoretic Analysis of Government Subsidy Policies and Power Company Equipment Upgrade Decisions**|Mingyang Li et.al.|[2408.01017](http://arxiv.org/abs/2408.01017)|null|
 |**2024-08-01**|**Counterclockwise Dissipativity, Potential Games and Evolutionary Nash Equilibrium Learning**|Nuno C. Martins et.al.|[2408.00647](http://arxiv.org/abs/2408.00647)|null|
 |**2024-07-30**|**Generalized replicator dynamics based on mean-field pairwise comparison dynamic**|Hidekazu Yoshioka et.al.|[2407.20751](http://arxiv.org/abs/2407.20751)|null|
