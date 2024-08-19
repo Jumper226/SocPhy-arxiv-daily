@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**Noisy information channel mediated prevention of the tragedy of the commons**|Samrat Sohel Mondal et.al.|[2408.08744](http://arxiv.org/abs/2408.08744)|null|
 |**2024-08-13**|**Dynamic Pricing of Electric Vehicle Charging Station Alliances Under Information Asymmetry**|Zeyu Liu et.al.|[2408.06645](http://arxiv.org/abs/2408.06645)|null|
 |**2024-08-13**|**Large Model Strategic Thinking, Small Model Efficiency: Transferring Theory of Mind in Large Language Models**|Nunzio Lore et.al.|[2408.05241](http://arxiv.org/abs/2408.05241)|null|
 |**2024-08-08**|**Learning Fair Cooperation in Mixed-Motive Games with Indirect Reciprocity**|Martin Smit et.al.|[2408.04549](http://arxiv.org/abs/2408.04549)|**[link](https://github.com/sias-uva/indirect-reciprocity)**|
@@ -439,6 +440,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**Adversarial Contrastive Learning Based Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation**|Rui Wang et.al.|[2408.08488](http://arxiv.org/abs/2408.08488)|null|
 |**2024-08-10**|**Temporal network modeling with online and hidden vertices based on the birth and death process**|Ziyan Zeng et.al.|[2408.05469](http://arxiv.org/abs/2408.05469)|null|
 |**2024-08-09**|**Higher-Order Temporal Network Prediction and Interpretation**|H. A. Bart Peters et.al.|[2408.05165](http://arxiv.org/abs/2408.05165)|null|
 |**2024-08-06**|**Measuring interconnectedness of infectious diseases in funded and unfunded research: a temporal network analysis on bibliometric data 1995-2022**|Anbang Du et.al.|[2408.03140](http://arxiv.org/abs/2408.03140)|null|
