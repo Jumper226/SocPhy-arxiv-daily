@@ -205,7 +205,7 @@
 |**2023-08-05**|**Doubly heterogeneous networks facilitate the emergence of collective cooperation**|Yao Meng et.al.|[2308.02824](http://arxiv.org/abs/2308.02824)|null|
 |**2024-04-19**|**Position Uncertainty in a Sequential Public Goods Game: An Experiment**|Chowdhury Mohammad Sakib Anwar et.al.|[2308.00179](http://arxiv.org/abs/2308.00179)|null|
 |**2023-09-01**|**A Schrödinger Equation for Evolutionary Dynamics**|Vi D. Ao et.al.|[2307.16044](http://arxiv.org/abs/2307.16044)|null|
-|**2023-07-29**|**PIMbot: Policy and Incentive Manipulation for Multi-Robot Reinforcement Learning in Social Dilemmas**|Shahab Nikkhoo et.al.|[2307.15944](http://arxiv.org/abs/2307.15944)|null|
+|**2023-07-29**|**PIMbot: Policy and Incentive Manipulation for Multi-Robot Reinforcement Learning in Social Dilemmas**|Shahab Nikkhoo et.al.|[2307.15944](http://arxiv.org/abs/2307.15944)|**[link](https://github.com/UCR-Intelligent-Robotics-Lab/greedy_agent)**|
 |**2023-08-02**|**Nonlinear behavior of coupled Evolutionary Games -- Epidemiological Models**|Eliza Maria Ferreira et.al.|[2307.14400](http://arxiv.org/abs/2307.14400)|null|
 |**2023-09-22**|**How Committed Individuals Shape Social Dynamics: A Survey on Coordination Games and Social Dilemma Games**|Chen Shen et.al.|[2307.14221](http://arxiv.org/abs/2307.14221)|null|
 |**2024-03-07**|**Pink-noise dynamics in an evolutionary game on a regular graph**|Yuki Sakamoto et.al.|[2307.14014](http://arxiv.org/abs/2307.14014)|null|
