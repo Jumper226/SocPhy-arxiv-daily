@@ -453,8 +453,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Spline tie-decay temporal networks**|Chanon Thongprayoon et.al.|[2408.11913](http://arxiv.org/abs/2408.11913)|null|
 |**2024-08-18**|**Fine-gained air quality inference based on low-quality sensing data using self-supervised learning**|Meng Xu et.al.|[2408.09526](http://arxiv.org/abs/2408.09526)|null|
-|**2024-08-16**|**Adversarial Contrastive Learning Based Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation**|Rui Wang et.al.|[2408.08488](http://arxiv.org/abs/2408.08488)|null|
+|**2024-08-16**|**Adversarial Contrastive Learning Based Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation**|Rui Wang et.al.|[2408.08488](http://arxiv.org/abs/2408.08488)|**[link](https://github.com/zest86/acl-pitn)**|
 |**2024-08-10**|**Temporal network modeling with online and hidden vertices based on the birth and death process**|Ziyan Zeng et.al.|[2408.05469](http://arxiv.org/abs/2408.05469)|null|
 |**2024-08-09**|**Higher-Order Temporal Network Prediction and Interpretation**|H. A. Bart Peters et.al.|[2408.05165](http://arxiv.org/abs/2408.05165)|null|
 |**2024-08-06**|**Measuring interconnectedness of infectious diseases in funded and unfunded research: a temporal network analysis on bibliometric data 1995-2022**|Anbang Du et.al.|[2408.03140](http://arxiv.org/abs/2408.03140)|null|
