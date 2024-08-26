@@ -441,6 +441,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Contrastive Representation Learning for Dynamic Link Prediction in Temporal Networks**|Amirhossein Nouranizadeh et.al.|[2408.12753](http://arxiv.org/abs/2408.12753)|**[link](https://github.com/amrhssn/teneNCE)**|
 |**2024-08-21**|**Spline tie-decay temporal networks**|Chanon Thongprayoon et.al.|[2408.11913](http://arxiv.org/abs/2408.11913)|null|
 |**2024-08-18**|**Fine-gained air quality inference based on low-quality sensing data using self-supervised learning**|Meng Xu et.al.|[2408.09526](http://arxiv.org/abs/2408.09526)|null|
 |**2024-08-16**|**Adversarial Contrastive Learning Based Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation**|Rui Wang et.al.|[2408.08488](http://arxiv.org/abs/2408.08488)|**[link](https://github.com/zest86/acl-pitn)**|
