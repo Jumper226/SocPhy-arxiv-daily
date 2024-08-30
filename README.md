@@ -453,6 +453,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Autocorrelation properties of temporal networks governed by dynamic node variables**|Harrison Hartle et.al.|[2408.16270](http://arxiv.org/abs/2408.16270)|null|
 |**2024-08-09**|**Emotion Classification from Multi-Channel EEG Signals Using HiSTN: A Hierarchical Graph-based Spatial-Temporal Approach**|Dongyang Kuang et.al.|[2408.15255](http://arxiv.org/abs/2408.15255)|null|
 |**2024-08-22**|**Contrastive Representation Learning for Dynamic Link Prediction in Temporal Networks**|Amirhossein Nouranizadeh et.al.|[2408.12753](http://arxiv.org/abs/2408.12753)|**[link](https://github.com/amrhssn/teneNCE)**|
 |**2024-08-21**|**Spline tie-decay temporal networks**|Chanon Thongprayoon et.al.|[2408.11913](http://arxiv.org/abs/2408.11913)|null|
