@@ -248,6 +248,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Network reconstruction may not mean dynamics prediction**|Zhendong Yu et.al.|[2409.04240](http://arxiv.org/abs/2409.04240)|null|
 |**2024-07-13**|**Orientability of undirected phylogenetic networks to a desired class: Practical algorithms and application to tree-child orientation**|Tsuyoshi Urata et.al.|[2407.09776](http://arxiv.org/abs/2407.09776)|**[link](https://github.com/hayamizu-lab/tree-child-orienter)**|
 |**2024-07-09**|**Full Identification of a Growing and Branching Network's Spatio-Temporal Structures**|Thibault Chassereau et.al.|[2407.06824](http://arxiv.org/abs/2407.06824)|null|
 |**2024-06-24**|**A compact model of Escherichia coli core and biosynthetic metabolism**|Marco Corrao et.al.|[2406.16596](http://arxiv.org/abs/2406.16596)|**[link](https://github.com/marco-corrao/ich360)**|
