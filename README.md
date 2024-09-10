@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2019-12-18**|**Higher-Order Topology in Bismuth**|Frank Schindler et.al.|[1802.02585](http://arxiv.org/abs/1802.02585)|null|
 |**2017-10-08**|**An Expressive Probabilistic Temporal Logic**|Bruno Woltzenlogel Paleo et.al.|[1603.07453](http://arxiv.org/abs/1603.07453)|**[link](https://github.com/Paradoxika/ProbLogic)**|
 
-<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
 
 ## evolutionary game
 
@@ -242,7 +242,7 @@
 |**2023-06-02**|**Deterministic Approximation of a Stochastic Imitation Dynamics with Memory**|Ozgur Aydogmus et.al.|[2306.01448](http://arxiv.org/abs/2306.01448)|null|
 |**2024-02-25**|**Evolutionary dynamics with temporal higher-order interactions**|Xiaochen Wang et.al.|[2306.01300](http://arxiv.org/abs/2306.01300)|null|
 
-<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
 
 ## network reconstruction
 
@@ -450,7 +450,7 @@
 |**2016-05-27**|**Growth against entropy in bacterial metabolism: the phenotypic trade-off behind empirical growth rate distributions in E. coli**|Daniele De Martino et.al.|[1601.03243](http://arxiv.org/abs/1601.03243)|null|
 |**2015-12-18**|**Network Cartography: Seeing the Forest and the Trees**|Jia Wang et.al.|[1512.06021](http://arxiv.org/abs/1512.06021)|null|
 
-<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
 
 ## temporal network
 
@@ -465,7 +465,7 @@
 |**2024-08-16**|**Adversarial Contrastive Learning Based Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation**|Rui Wang et.al.|[2408.08488](http://arxiv.org/abs/2408.08488)|**[link](https://github.com/zest86/acl-pitn)**|
 |**2024-08-10**|**Temporal network modeling with online and hidden vertices based on the birth and death process**|Ziyan Zeng et.al.|[2408.05469](http://arxiv.org/abs/2408.05469)|null|
 |**2024-08-09**|**Higher-Order Temporal Network Prediction and Interpretation**|H. A. Bart Peters et.al.|[2408.05165](http://arxiv.org/abs/2408.05165)|null|
-|**2024-08-06**|**Measuring interconnectedness of infectious diseases in funded and unfunded research: a temporal network analysis on bibliometric data 1995-2022**|Anbang Du et.al.|[2408.03140](http://arxiv.org/abs/2408.03140)|null|
+|**2024-09-08**|**Integration vs segregation: evidence from measuring and comparing interdisciplinarity in funded and unfunded research using a network approach**|Anbang Du et.al.|[2408.03140](http://arxiv.org/abs/2408.03140)|null|
 |**2024-08-05**|**The Role of Functional Muscle Networks in Improving Hand Gesture Perception for Human-Machine Interfaces**|Costanza Armanini et.al.|[2408.02547](http://arxiv.org/abs/2408.02547)|null|
 |**2024-07-30**|**DuA: Dual Attentive Transformer in Long-Term Continuous EEG Emotion Analysis**|Yue Pan et.al.|[2407.20519](http://arxiv.org/abs/2407.20519)|null|
 |**2024-07-29**|**Urban Traffic Accident Risk Prediction Revisited: Regionality, Proximity, Similarity and Sparsity**|Minxiao Chen et.al.|[2407.19668](http://arxiv.org/abs/2407.19668)|**[link](https://github.com/faceless0124/mghstn)**|
@@ -668,7 +668,7 @@
 |**2023-04-14**|**The emergence of burstiness in temporal networks**|Anzhi Sheng et.al.|[2112.10527](http://arxiv.org/abs/2112.10527)|null|
 |**2021-12-15**|**Epidemic spreading in populations of mobile agents with adaptive behavioral response**|Paulo Cesar Ventura et.al.|[2112.07829](http://arxiv.org/abs/2112.07829)|null|
 
-<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jumper226/SocPhy-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jumper226/SocPhy-arxiv-daily/graphs/contributors
