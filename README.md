@@ -29,6 +29,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Evolutionary Game Dynamics Applied to Strategic Adoption of Immersive Technologies in Cultural Heritage and Tourism**|Gioacchino Fazio et.al.|[2409.06720](http://arxiv.org/abs/2409.06720)|null|
 |**2024-09-08**|**An Analysis of Logit Learning with the r-Lambert Function**|Rory Gavin et.al.|[2409.05044](http://arxiv.org/abs/2409.05044)|null|
 |**2024-09-07**|**Dominant strategy in repeated games on networks**|Xiaochen Wang et.al.|[2409.04696](http://arxiv.org/abs/2409.04696)|null|
 |**2024-09-02**|**Swarm Systems as a Platform for Open-Ended Evolutionary Dynamics**|Hiroki Sayama et.al.|[2409.01469](http://arxiv.org/abs/2409.01469)|null|
