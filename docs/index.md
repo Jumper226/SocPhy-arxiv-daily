@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-14**|**Learning Nudges for Conditional Cooperation: A Multi-Agent Reinforcement Learning Model**|Shatayu Kulkarni et.al.|[2409.09509](http://arxiv.org/abs/2409.09509)|null|
 |**2024-08-26**|**Evolutionary Game Dynamics Applied to Strategic Adoption of Immersive Technologies in Cultural Heritage and Tourism**|Gioacchino Fazio et.al.|[2409.06720](http://arxiv.org/abs/2409.06720)|null|
 |**2024-09-08**|**An Analysis of Logit Learning with the r-Lambert Function**|Rory Gavin et.al.|[2409.05044](http://arxiv.org/abs/2409.05044)|null|
 |**2024-09-07**|**Dominant strategy in repeated games on networks**|Xiaochen Wang et.al.|[2409.04696](http://arxiv.org/abs/2409.04696)|null|
@@ -448,6 +449,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Proactive and Reactive Constraint Programming for Stochastic Project Scheduling with Maximal Time-Lags**|Kim van den Houten et.al.|[2409.09107](http://arxiv.org/abs/2409.09107)|null|
 |**2024-08-29**|**Longitudinal Modularity, a Modularity for Link Streams**|Victor Brabant et.al.|[2408.16877](http://arxiv.org/abs/2408.16877)|**[link](https://github.com/fondationsahar/dynamic_community_detection)**|
 |**2024-08-29**|**Autocorrelation properties of temporal networks governed by dynamic node variables**|Harrison Hartle et.al.|[2408.16270](http://arxiv.org/abs/2408.16270)|null|
 |**2024-08-09**|**Emotion Classification from Multi-Channel EEG Signals Using HiSTN: A Hierarchical Graph-based Spatial-Temporal Approach**|Dongyang Kuang et.al.|[2408.15255](http://arxiv.org/abs/2408.15255)|null|
