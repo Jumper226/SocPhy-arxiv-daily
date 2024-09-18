@@ -461,6 +461,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Unveiling the Social Fabric: A Temporal, Nation-Scale Social Network and its Characteristics**|Jolien Cremers et.al.|[2409.11099](http://arxiv.org/abs/2409.11099)|null|
+|**2024-09-17**|**Spatio-Temporal-Network Point Processes for Modeling Crime Events with Landmarks**|Zheng Dong et.al.|[2409.10882](http://arxiv.org/abs/2409.10882)|null|
 |**2024-09-13**|**Proactive and Reactive Constraint Programming for Stochastic Project Scheduling with Maximal Time-Lags**|Kim van den Houten et.al.|[2409.09107](http://arxiv.org/abs/2409.09107)|null|
 |**2024-08-29**|**Longitudinal Modularity, a Modularity for Link Streams**|Victor Brabant et.al.|[2408.16877](http://arxiv.org/abs/2408.16877)|**[link](https://github.com/fondationsahar/dynamic_community_detection)**|
 |**2024-08-29**|**Autocorrelation properties of temporal networks governed by dynamic node variables**|Harrison Hartle et.al.|[2408.16270](http://arxiv.org/abs/2408.16270)|null|
