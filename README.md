@@ -29,6 +29,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-23**|**Promoting collective intelligence: The advantage of temporal star-structures**|Zhenglong Tian et.al.|[2409.15122](http://arxiv.org/abs/2409.15122)|null|
+|**2024-09-22**|**Interplay of Reward and Size of Groups in the Optional Public Goods Game**|Eduardo V. Stock et.al.|[2409.14311](http://arxiv.org/abs/2409.14311)|null|
+|**2024-09-21**|**Adaptive bias for dissensus in nonlinear opinion dynamics with application to evolutionary division of labor games**|Tyler M. Paine et.al.|[2409.13964](http://arxiv.org/abs/2409.13964)|null|
 |**2024-09-14**|**Learning Nudges for Conditional Cooperation: A Multi-Agent Reinforcement Learning Model**|Shatayu Kulkarni et.al.|[2409.09509](http://arxiv.org/abs/2409.09509)|null|
 |**2024-08-26**|**Evolutionary Game Dynamics Applied to Strategic Adoption of Immersive Technologies in Cultural Heritage and Tourism**|Gioacchino Fazio et.al.|[2409.06720](http://arxiv.org/abs/2409.06720)|null|
 |**2024-09-08**|**An Analysis of Logit Learning with the r-Lambert Function**|Rory Gavin et.al.|[2409.05044](http://arxiv.org/abs/2409.05044)|null|
@@ -461,6 +464,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-23**|**Critical Node Detection in Temporal Social Networks, Based on Global and Semi-local Centrality Measures**|Zahra Farahi et.al.|[2409.15142](http://arxiv.org/abs/2409.15142)|null|
+|**2024-09-23**|**Promoting collective intelligence: The advantage of temporal star-structures**|Zhenglong Tian et.al.|[2409.15122](http://arxiv.org/abs/2409.15122)|null|
+|**2024-09-25**|**DilateQuant: Accurate and Efficient Diffusion Quantization via Weight Dilation**|Xuewen Liu et.al.|[2409.14307](http://arxiv.org/abs/2409.14307)|null|
 |**2024-09-17**|**Unveiling the Social Fabric: A Temporal, Nation-Scale Social Network and its Characteristics**|Jolien Cremers et.al.|[2409.11099](http://arxiv.org/abs/2409.11099)|null|
 |**2024-09-17**|**Spatio-Temporal-Network Point Processes for Modeling Crime Events with Landmarks**|Zheng Dong et.al.|[2409.10882](http://arxiv.org/abs/2409.10882)|null|
 |**2024-09-13**|**Proactive and Reactive Constraint Programming for Stochastic Project Scheduling with Maximal Time-Lags**|Kim van den Houten et.al.|[2409.09107](http://arxiv.org/abs/2409.09107)|null|
