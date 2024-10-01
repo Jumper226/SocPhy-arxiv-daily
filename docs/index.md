@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Indirect rewards outperform direct punishment in promoting cooperation**|Yujia Wen et.al.|[2409.19880](http://arxiv.org/abs/2409.19880)|null|
+|**2024-09-28**|**Dynamical stability of evolutionarily stable strategy in asymmetric games**|Vikash Kumar Dubey et.al.|[2409.19320](http://arxiv.org/abs/2409.19320)|null|
 |**2024-09-23**|**Promoting collective intelligence: The advantage of temporal star-structures**|Zhenglong Tian et.al.|[2409.15122](http://arxiv.org/abs/2409.15122)|null|
 |**2024-09-22**|**Interplay of Reward and Size of Groups in the Optional Public Goods Game**|Eduardo V. Stock et.al.|[2409.14311](http://arxiv.org/abs/2409.14311)|null|
 |**2024-09-21**|**Adaptive bias for dissensus in nonlinear opinion dynamics with application to evolutionary division of labor games**|Tyler M. Paine et.al.|[2409.13964](http://arxiv.org/abs/2409.13964)|null|
