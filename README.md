@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2019-12-18**|**Higher-Order Topology in Bismuth**|Frank Schindler et.al.|[1802.02585](http://arxiv.org/abs/1802.02585)|null|
 |**2017-10-08**|**An Expressive Probabilistic Temporal Logic**|Bruno Woltzenlogel Paleo et.al.|[1603.07453](http://arxiv.org/abs/1603.07453)|**[link](https://github.com/Paradoxika/ProbLogic)**|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## evolutionary game
 
@@ -249,7 +249,7 @@
 |**2023-06-02**|**Deterministic Approximation of a Stochastic Imitation Dynamics with Memory**|Ozgur Aydogmus et.al.|[2306.01448](http://arxiv.org/abs/2306.01448)|null|
 |**2024-02-25**|**Evolutionary dynamics with temporal higher-order interactions**|Xiaochen Wang et.al.|[2306.01300](http://arxiv.org/abs/2306.01300)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## network reconstruction
 
@@ -262,7 +262,7 @@
 |**2024-06-24**|**A compact model of Escherichia coli core and biosynthetic metabolism**|Marco Corrao et.al.|[2406.16596](http://arxiv.org/abs/2406.16596)|**[link](https://github.com/marco-corrao/ich360_paper)**|
 |**2024-05-07**|**Network reconstruction via the minimum description length principle**|Tiago P. Peixoto et.al.|[2405.01015](http://arxiv.org/abs/2405.01015)|**[link](https://git.skewed.de/count0/graph-tool)**|
 |**2024-08-23**|**Reconstructing networks from simple and complex contagions**|Nicholas W. Landry et.al.|[2405.00129](http://arxiv.org/abs/2405.00129)|**[link](https://github.com/nwlandry/complex-network-reconstruction)**|
-|**2024-04-02**|**Neural network reconstruction of density and velocity fields from the 2MASS Redshift Survey**|Robert Lilow et.al.|[2404.02278](http://arxiv.org/abs/2404.02278)|**[link](https://github.com/rlilow/2mrs-neuralnet)**|
+|**2024-09-29**|**Neural network reconstruction of density and velocity fields from the 2MASS Redshift Survey**|Robert Lilow et.al.|[2404.02278](http://arxiv.org/abs/2404.02278)|**[link](https://github.com/rlilow/2mrs-neuralnet)**|
 |**2024-03-27**|**Collaborative graphical lasso**|Alessio Albanese et.al.|[2403.18602](http://arxiv.org/abs/2403.18602)|null|
 |**2024-03-22**|**Reconstructing the evolution history of networked complex systems**|Junya Wang et.al.|[2403.14983](http://arxiv.org/abs/2403.14983)|**[link](https://github.com/yijiaozhang/evolution_restore)**|
 |**2024-03-12**|**Sparse dynamic network reconstruction through L1-regularization of a Lyapunov equation**|Ian Xul Belaustegui et.al.|[2403.05457](http://arxiv.org/abs/2403.05457)|null|
@@ -458,7 +458,7 @@
 |**2016-05-27**|**Growth against entropy in bacterial metabolism: the phenotypic trade-off behind empirical growth rate distributions in E. coli**|Daniele De Martino et.al.|[1601.03243](http://arxiv.org/abs/1601.03243)|null|
 |**2015-12-18**|**Network Cartography: Seeing the Forest and the Trees**|Jia Wang et.al.|[1512.06021](http://arxiv.org/abs/1512.06021)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## temporal network
 
@@ -682,7 +682,7 @@
 |**2023-04-14**|**The emergence of burstiness in temporal networks**|Anzhi Sheng et.al.|[2112.10527](http://arxiv.org/abs/2112.10527)|null|
 |**2021-12-15**|**Epidemic spreading in populations of mobile agents with adaptive behavioral response**|Paulo Cesar Ventura et.al.|[2112.07829](http://arxiv.org/abs/2112.07829)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jumper226/SocPhy-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jumper226/SocPhy-arxiv-daily/graphs/contributors
