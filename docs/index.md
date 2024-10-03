@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-01**|**EnzymeFlow: Generating Reaction-specific Enzyme Catalytic Pockets through Flow Matching and Co-Evolutionary Dynamics**|Chenqing Hua et.al.|[2410.00327](http://arxiv.org/abs/2410.00327)|**[link](https://github.com/willhua127/enzymeflow)**|
 |**2024-09-30**|**Indirect rewards outperform direct punishment in promoting cooperation**|Yujia Wen et.al.|[2409.19880](http://arxiv.org/abs/2409.19880)|null|
 |**2024-09-28**|**Dynamical stability of evolutionarily stable strategy in asymmetric games**|Vikash Kumar Dubey et.al.|[2409.19320](http://arxiv.org/abs/2409.19320)|null|
 |**2024-09-23**|**Promoting collective intelligence: The advantage of temporal star-structures**|Zhenglong Tian et.al.|[2409.15122](http://arxiv.org/abs/2409.15122)|null|
@@ -454,6 +455,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Class-Agnostic Visio-Temporal Scene Sketch Semantic Segmentation**|Aleyna Kütük et.al.|[2410.00266](http://arxiv.org/abs/2410.00266)|null|
 |**2024-09-23**|**Critical Node Detection in Temporal Social Networks, Based on Global and Semi-local Centrality Measures**|Zahra Farahi et.al.|[2409.15142](http://arxiv.org/abs/2409.15142)|null|
 |**2024-09-23**|**Promoting collective intelligence: The advantage of temporal star-structures**|Zhenglong Tian et.al.|[2409.15122](http://arxiv.org/abs/2409.15122)|null|
 |**2024-09-25**|**DilateQuant: Accurate and Efficient Diffusion Quantization via Weight Dilation**|Xuewen Liu et.al.|[2409.14307](http://arxiv.org/abs/2409.14307)|null|
