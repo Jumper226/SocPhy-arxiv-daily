@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -31,7 +31,7 @@ layout: default
 |**2024-09-08**|**An Analysis of Logit Learning with the r-Lambert Function**|Rory Gavin et.al.|[2409.05044](http://arxiv.org/abs/2409.05044)|null|
 |**2024-09-07**|**Dominant strategy in repeated games on networks**|Xiaochen Wang et.al.|[2409.04696](http://arxiv.org/abs/2409.04696)|null|
 |**2024-09-02**|**Swarm Systems as a Platform for Open-Ended Evolutionary Dynamics**|Hiroki Sayama et.al.|[2409.01469](http://arxiv.org/abs/2409.01469)|null|
-|**2024-09-02**|**Compartment model of strategy-dependent time delays in replicator dynamics**|Małgorzata Fic et.al.|[2409.01116](http://arxiv.org/abs/2409.01116)|null|
+|**2024-09-02**|**Compartment model of strategy-dependent time delays in replicator dynamics**|Małgorzata Fic et.al.|[2409.01116](http://arxiv.org/abs/2409.01116)|**[link](https://github.com/tecoevo/compartmentalised_timedelays)**|
 |**2024-08-17**|**Generative Agent-Based Models for Complex Systems Research: a review**|Yikang Lu et.al.|[2408.09175](http://arxiv.org/abs/2408.09175)|null|
 |**2024-08-16**|**Noisy information channel mediated prevention of the tragedy of the commons**|Samrat Sohel Mondal et.al.|[2408.08744](http://arxiv.org/abs/2408.08744)|null|
 |**2024-08-13**|**Dynamic Pricing of Electric Vehicle Charging Station Alliances Under Information Asymmetry**|Zeyu Liu et.al.|[2408.06645](http://arxiv.org/abs/2408.06645)|null|
