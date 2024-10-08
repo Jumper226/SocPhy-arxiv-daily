@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-29**|**Large Language Models Overcome the Machine Penalty When Acting Fairly but Not When Acting Selfishly or Altruistically**|Zhen Wang et.al.|[2410.03724](http://arxiv.org/abs/2410.03724)|null|
 |**2024-10-01**|**EnzymeFlow: Generating Reaction-specific Enzyme Catalytic Pockets through Flow Matching and Co-Evolutionary Dynamics**|Chenqing Hua et.al.|[2410.00327](http://arxiv.org/abs/2410.00327)|**[link](https://github.com/willhua127/enzymeflow)**|
 |**2024-09-30**|**Indirect rewards outperform direct punishment in promoting cooperation**|Yujia Wen et.al.|[2409.19880](http://arxiv.org/abs/2409.19880)|null|
 |**2024-09-28**|**Dynamical stability of evolutionarily stable strategy in asymmetric games**|Vikash Kumar Dubey et.al.|[2409.19320](http://arxiv.org/abs/2409.19320)|null|
