@@ -590,7 +590,7 @@ layout: default
 |**2023-01-22**|**Description of the cattle and small ruminants trade network in Senegal and implication for the surveillance of animal diseases**|Mamadou Ciss et.al.|[2301.11784](http://arxiv.org/abs/2301.11784)|null|
 |**2023-01-27**|**Higher-Order Patterns Reveal Causal Timescales of Complex Systems**|Luka V. Petrović et.al.|[2301.11623](http://arxiv.org/abs/2301.11623)|null|
 |**2023-01-27**|**Skeleton-based Action Recognition through Contrasting Two-Stream Spatial-Temporal Networks**|Chen Pang et.al.|[2301.11495](http://arxiv.org/abs/2301.11495)|null|
-|**2023-09-01**|**Skeleton coupling: a novel interlayer mapping of community evolution in temporal networks**|Bengier Ülgen Kilic et.al.|[2301.10860](http://arxiv.org/abs/2301.10860)|null|
+|**2023-09-01**|**Skeleton coupling: a novel interlayer mapping of community evolution in temporal networks**|Bengier Ülgen Kilic et.al.|[2301.10860](http://arxiv.org/abs/2301.10860)|**[link](https://github.com/ulgenklc/temporal_network_analysis)**|
 |**2023-02-04**|**Predicting Socio-Economic Well-being Using Mobile Apps Data: A Case Study of France**|Rahul Goel et.al.|[2301.09986](http://arxiv.org/abs/2301.09986)|null|
 |**2023-01-18**|**Deep Learning Enables Reduced Gadolinium Dose for Contrast-Enhanced Blood-Brain Barrier Opening**|P. Lee et.al.|[2301.07248](http://arxiv.org/abs/2301.07248)|null|
 |**2023-01-17**|**Modeling framework unifying contact and social networks**|Didier Le Bail et.al.|[2301.06828](http://arxiv.org/abs/2301.06828)|null|
