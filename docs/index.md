@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Oscillatory equilibrium in asymmetric evolutionary games: Generalizing evolutionarily stable strategy**|Vikash Kumar Dubey et.al.|[2410.13922](http://arxiv.org/abs/2410.13922)|null|
 |**2024-10-17**|**Phenotype structuring in collective cell migration:a tutorial of mathematical models and methods**|Tommaso Lorenzi et.al.|[2410.13629](http://arxiv.org/abs/2410.13629)|null|
 |**2024-10-01**|**M $^{2}$ M: Learning controllable Multi of experts and multi-scale operators are the Partial Differential Equations need**|Aoming Liang et.al.|[2410.11617](http://arxiv.org/abs/2410.11617)|null|
 |**2024-10-14**|**Cooperation in Public Goods Games: Leveraging Other-Regarding Reinforcement Learning on Hypergraphs**|Bo-Ying Li et.al.|[2410.10921](http://arxiv.org/abs/2410.10921)|null|
