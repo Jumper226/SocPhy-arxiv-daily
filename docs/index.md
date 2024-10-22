@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -26,14 +26,14 @@ layout: default
 |**2024-10-01**|**M $^{2}$ M: Learning controllable Multi of experts and multi-scale operators are the Partial Differential Equations need**|Aoming Liang et.al.|[2410.11617](http://arxiv.org/abs/2410.11617)|null|
 |**2024-10-14**|**Cooperation in Public Goods Games: Leveraging Other-Regarding Reinforcement Learning on Hypergraphs**|Bo-Ying Li et.al.|[2410.10921](http://arxiv.org/abs/2410.10921)|null|
 |**2024-10-02**|**Topological phase transition in anti-symmetric Lotka-Volterra doublet chain**|Rukmani Bai et.al.|[2410.07227](http://arxiv.org/abs/2410.07227)|null|
-|**2024-10-09**|**Data-informed modeling of the formation, persistence, and evolution of social norms and conventions**|Mengbin Ye et.al.|[2410.06663](http://arxiv.org/abs/2410.06663)|null|
+|**2024-10-21**|**Data-informed modeling of the formation, persistence, and evolution of social norms and conventions**|Mengbin Ye et.al.|[2410.06663](http://arxiv.org/abs/2410.06663)|null|
 |**2024-10-08**|**Large Language Models Overcome the Machine Penalty When Acting Fairly but Not When Acting Selfishly or Altruistically**|Zhen Wang et.al.|[2410.03724](http://arxiv.org/abs/2410.03724)|null|
 |**2024-10-01**|**EnzymeFlow: Generating Reaction-specific Enzyme Catalytic Pockets through Flow Matching and Co-Evolutionary Dynamics**|Chenqing Hua et.al.|[2410.00327](http://arxiv.org/abs/2410.00327)|**[link](https://github.com/willhua127/enzymeflow)**|
 |**2024-09-30**|**Indirect rewards outperform direct punishment in promoting cooperation**|Yujia Wen et.al.|[2409.19880](http://arxiv.org/abs/2409.19880)|null|
 |**2024-09-28**|**Dynamical stability of evolutionarily stable strategy in asymmetric games**|Vikash Kumar Dubey et.al.|[2409.19320](http://arxiv.org/abs/2409.19320)|null|
 |**2024-09-23**|**Promoting collective intelligence: The advantage of temporal star-structures**|Zhenglong Tian et.al.|[2409.15122](http://arxiv.org/abs/2409.15122)|null|
 |**2024-09-22**|**Interplay of Reward and Size of Groups in the Optional Public Goods Game**|Eduardo V. Stock et.al.|[2409.14311](http://arxiv.org/abs/2409.14311)|null|
-|**2024-09-21**|**Adaptive bias for dissensus in nonlinear opinion dynamics with application to evolutionary division of labor games**|Tyler M. Paine et.al.|[2409.13964](http://arxiv.org/abs/2409.13964)|null|
+|**2024-10-18**|**Adaptive bias for dissensus in nonlinear opinion dynamics with application to evolutionary division of labor games**|Tyler M. Paine et.al.|[2409.13964](http://arxiv.org/abs/2409.13964)|null|
 |**2024-09-14**|**Learning Nudges for Conditional Cooperation: A Multi-Agent Reinforcement Learning Model**|Shatayu Kulkarni et.al.|[2409.09509](http://arxiv.org/abs/2409.09509)|null|
 |**2024-08-26**|**Evolutionary Game Dynamics Applied to Strategic Adoption of Immersive Technologies in Cultural Heritage and Tourism**|Gioacchino Fazio et.al.|[2409.06720](http://arxiv.org/abs/2409.06720)|null|
 |**2024-09-08**|**An Analysis of Logit Learning with the r-Lambert Function**|Rory Gavin et.al.|[2409.05044](http://arxiv.org/abs/2409.05044)|null|
