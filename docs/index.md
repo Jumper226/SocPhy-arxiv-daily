@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Animating the Past: Reconstruct Trilobite via Video Generation**|Xiaoran Wu et.al.|[2410.14715](http://arxiv.org/abs/2410.14715)|null|
 |**2024-10-17**|**Oscillatory equilibrium in asymmetric evolutionary games: Generalizing evolutionarily stable strategy**|Vikash Kumar Dubey et.al.|[2410.13922](http://arxiv.org/abs/2410.13922)|null|
 |**2024-10-17**|**Phenotype structuring in collective cell migration:a tutorial of mathematical models and methods**|Tommaso Lorenzi et.al.|[2410.13629](http://arxiv.org/abs/2410.13629)|null|
 |**2024-10-01**|**M $^{2}$ M: Learning controllable Multi of experts and multi-scale operators are the Partial Differential Equations need**|Aoming Liang et.al.|[2410.11617](http://arxiv.org/abs/2410.11617)|null|
@@ -259,7 +260,7 @@ layout: default
 |**2024-09-06**|**Network reconstruction may not mean dynamics prediction**|Zhendong Yu et.al.|[2409.04240](http://arxiv.org/abs/2409.04240)|null|
 |**2024-07-13**|**Orientability of undirected phylogenetic networks to a desired class: Practical algorithms and application to tree-child orientation**|Tsuyoshi Urata et.al.|[2407.09776](http://arxiv.org/abs/2407.09776)|**[link](https://github.com/hayamizu-lab/tree-child-orienter)**|
 |**2024-07-09**|**Full Identification of a Growing and Branching Network's Spatio-Temporal Structures**|Thibault Chassereau et.al.|[2407.06824](http://arxiv.org/abs/2407.06824)|null|
-|**2024-06-24**|**A compact model of Escherichia coli core and biosynthetic metabolism**|Marco Corrao et.al.|[2406.16596](http://arxiv.org/abs/2406.16596)|**[link](https://github.com/marco-corrao/ich360_paper)**|
+|**2024-10-21**|**A compact model of Escherichia coli core and biosynthetic metabolism**|Marco Corrao et.al.|[2406.16596](http://arxiv.org/abs/2406.16596)|**[link](https://github.com/marco-corrao/ich360_paper)**|
 |**2024-05-07**|**Network reconstruction via the minimum description length principle**|Tiago P. Peixoto et.al.|[2405.01015](http://arxiv.org/abs/2405.01015)|**[link](https://git.skewed.de/count0/graph-tool)**|
 |**2024-08-23**|**Reconstructing networks from simple and complex contagions**|Nicholas W. Landry et.al.|[2405.00129](http://arxiv.org/abs/2405.00129)|**[link](https://github.com/nwlandry/complex-network-reconstruction)**|
 |**2024-09-29**|**Neural network reconstruction of density and velocity fields from the 2MASS Redshift Survey**|Robert Lilow et.al.|[2404.02278](http://arxiv.org/abs/2404.02278)|**[link](https://github.com/rlilow/2mrs-neuralnet)**|
@@ -462,6 +463,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-19**|**Towards Truss-Based Temporal Community Search**|Huihui Yang et.al.|[2410.15046](http://arxiv.org/abs/2410.15046)|null|
 |**2024-10-01**|**Recovering Time-Varying Networks From Single-Cell Data**|Euxhen Hasanaj et.al.|[2410.01853](http://arxiv.org/abs/2410.01853)|null|
 |**2024-09-30**|**Class-Agnostic Visio-Temporal Scene Sketch Semantic Segmentation**|Aleyna Kütük et.al.|[2410.00266](http://arxiv.org/abs/2410.00266)|null|
 |**2024-09-23**|**Critical Node Detection in Temporal Social Networks, Based on Global and Semi-local Centrality Measures**|Zahra Farahi et.al.|[2409.15142](http://arxiv.org/abs/2409.15142)|null|
