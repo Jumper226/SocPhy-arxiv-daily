@@ -29,6 +29,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**An evolutionary game theory approach to modeling behavioral interaction in disclosing infection begins with an outbreak: COVID-19 as an example**|Pranav Verma et.al.|[2410.17996](http://arxiv.org/abs/2410.17996)|null|
+|**2024-10-23**|**Bridging Swarm Intelligence and Reinforcement Learning**|Karthik Soma et.al.|[2410.17517](http://arxiv.org/abs/2410.17517)|null|
 |**2024-10-10**|**Animating the Past: Reconstruct Trilobite via Video Generation**|Xiaoran Wu et.al.|[2410.14715](http://arxiv.org/abs/2410.14715)|null|
 |**2024-10-17**|**Oscillatory equilibrium in asymmetric evolutionary games: Generalizing evolutionarily stable strategy**|Vikash Kumar Dubey et.al.|[2410.13922](http://arxiv.org/abs/2410.13922)|null|
 |**2024-10-17**|**Phenotype structuring in collective cell migration:a tutorial of mathematical models and methods**|Tommaso Lorenzi et.al.|[2410.13629](http://arxiv.org/abs/2410.13629)|null|
@@ -475,6 +477,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Global synchronization theorem for coupled swarmalators**|Kevin P. O'Keeffe et.al.|[2410.18011](http://arxiv.org/abs/2410.18011)|null|
+|**2024-10-23**|**Dynamic models of gentrification**|Giovanni Mauro et.al.|[2410.18004](http://arxiv.org/abs/2410.18004)|null|
+|**2024-10-22**|**Efficient computation of \lowercase{ $f$ }-centralities and nonbacktracking centrality for temporal networks**|Vanni Noferini et.al.|[2410.17352](http://arxiv.org/abs/2410.17352)|null|
 |**2024-10-19**|**Towards Truss-Based Temporal Community Search**|Huihui Yang et.al.|[2410.15046](http://arxiv.org/abs/2410.15046)|null|
 |**2024-10-01**|**Recovering Time-Varying Networks From Single-Cell Data**|Euxhen Hasanaj et.al.|[2410.01853](http://arxiv.org/abs/2410.01853)|null|
 |**2024-09-30**|**Class-Agnostic Visio-Temporal Scene Sketch Semantic Segmentation**|Aleyna Kütük et.al.|[2410.00266](http://arxiv.org/abs/2410.00266)|null|
