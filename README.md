@@ -29,6 +29,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Survival of the Fittest: Evolutionary Adaptation of Policies for Environmental Shifts**|Sheryl Paul et.al.|[2410.19852](http://arxiv.org/abs/2410.19852)|null|
 |**2024-10-24**|**Multi-agent cooperation through learning-aware policy gradients**|Alexander Meulemans et.al.|[2410.18636](http://arxiv.org/abs/2410.18636)|null|
 |**2024-10-23**|**An evolutionary game theory approach to modeling behavioral interaction in disclosing infection begins with an outbreak: COVID-19 as an example**|Pranav Verma et.al.|[2410.17996](http://arxiv.org/abs/2410.17996)|null|
 |**2024-10-23**|**Bridging Swarm Intelligence and Reinforcement Learning**|Karthik Soma et.al.|[2410.17517](http://arxiv.org/abs/2410.17517)|null|
