@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.03
+## Updated on 2024.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2019-12-18**|**Higher-Order Topology in Bismuth**|Frank Schindler et.al.|[1802.02585](http://arxiv.org/abs/1802.02585)|null|
 |**2017-10-08**|**An Expressive Probabilistic Temporal Logic**|Bruno Woltzenlogel Paleo et.al.|[1603.07453](http://arxiv.org/abs/1603.07453)|**[link](https://github.com/Paradoxika/ProbLogic)**|
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
 ## evolutionary game
 
@@ -31,7 +31,7 @@
 |---|---|---|---|---|
 |**2024-10-30**|**Seasonal social dilemmas**|Lucas S. Flores et.al.|[2410.22917](http://arxiv.org/abs/2410.22917)|null|
 |**2024-10-30**|**An invariance principle based concentration result for large-scale stochastic pairwise interaction network systems**|Giacomo Como et.al.|[2410.22820](http://arxiv.org/abs/2410.22820)|null|
-|**2024-10-29**|**Evolutionary dynamics with random payoff matrices**|Manh Hong Duong et.al.|[2410.22010](http://arxiv.org/abs/2410.22010)|null|
+|**2024-11-01**|**Evolutionary dynamics with random payoff matrices**|Manh Hong Duong et.al.|[2410.22010](http://arxiv.org/abs/2410.22010)|null|
 |**2024-10-22**|**Survival of the Fittest: Evolutionary Adaptation of Policies for Environmental Shifts**|Sheryl Paul et.al.|[2410.19852](http://arxiv.org/abs/2410.19852)|null|
 |**2024-10-24**|**Multi-agent cooperation through learning-aware policy gradients**|Alexander Meulemans et.al.|[2410.18636](http://arxiv.org/abs/2410.18636)|null|
 |**2024-10-23**|**An evolutionary game theory approach to modeling behavioral interaction in disclosing infection begins with an outbreak: COVID-19 as an example**|Pranav Verma et.al.|[2410.17996](http://arxiv.org/abs/2410.17996)|null|
@@ -267,7 +267,7 @@
 |**2023-06-02**|**Deterministic Approximation of a Stochastic Imitation Dynamics with Memory**|Ozgur Aydogmus et.al.|[2306.01448](http://arxiv.org/abs/2306.01448)|null|
 |**2024-02-25**|**Evolutionary dynamics with temporal higher-order interactions**|Xiaochen Wang et.al.|[2306.01300](http://arxiv.org/abs/2306.01300)|null|
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
 ## network reconstruction
 
@@ -476,7 +476,7 @@
 |**2016-05-27**|**Growth against entropy in bacterial metabolism: the phenotypic trade-off behind empirical growth rate distributions in E. coli**|Daniele De Martino et.al.|[1601.03243](http://arxiv.org/abs/1601.03243)|null|
 |**2015-12-18**|**Network Cartography: Seeing the Forest and the Trees**|Jia Wang et.al.|[1512.06021](http://arxiv.org/abs/1512.06021)|null|
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
 ## temporal network
 
@@ -708,7 +708,7 @@
 |**2023-04-14**|**The emergence of burstiness in temporal networks**|Anzhi Sheng et.al.|[2112.10527](http://arxiv.org/abs/2112.10527)|null|
 |**2021-12-15**|**Epidemic spreading in populations of mobile agents with adaptive behavioral response**|Paulo Cesar Ventura et.al.|[2112.07829](http://arxiv.org/abs/2112.07829)|null|
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jumper226/SocPhy-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jumper226/SocPhy-arxiv-daily/graphs/contributors

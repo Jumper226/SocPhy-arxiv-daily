@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.03
+## Updated on 2024.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -23,7 +23,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-30**|**Seasonal social dilemmas**|Lucas S. Flores et.al.|[2410.22917](http://arxiv.org/abs/2410.22917)|null|
 |**2024-10-30**|**An invariance principle based concentration result for large-scale stochastic pairwise interaction network systems**|Giacomo Como et.al.|[2410.22820](http://arxiv.org/abs/2410.22820)|null|
-|**2024-10-29**|**Evolutionary dynamics with random payoff matrices**|Manh Hong Duong et.al.|[2410.22010](http://arxiv.org/abs/2410.22010)|null|
+|**2024-11-01**|**Evolutionary dynamics with random payoff matrices**|Manh Hong Duong et.al.|[2410.22010](http://arxiv.org/abs/2410.22010)|null|
 |**2024-10-22**|**Survival of the Fittest: Evolutionary Adaptation of Policies for Environmental Shifts**|Sheryl Paul et.al.|[2410.19852](http://arxiv.org/abs/2410.19852)|null|
 |**2024-10-24**|**Multi-agent cooperation through learning-aware policy gradients**|Alexander Meulemans et.al.|[2410.18636](http://arxiv.org/abs/2410.18636)|null|
 |**2024-10-23**|**An evolutionary game theory approach to modeling behavioral interaction in disclosing infection begins with an outbreak: COVID-19 as an example**|Pranav Verma et.al.|[2410.17996](http://arxiv.org/abs/2410.17996)|null|
