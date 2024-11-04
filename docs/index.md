@@ -86,7 +86,7 @@ layout: default
 |**2024-06-15**|**A stochastic field theory for the evolution of quantitative traits in finite populations**|Ananda Shikhara Bhat et.al.|[2406.10739](http://arxiv.org/abs/2406.10739)|null|
 |**2024-07-05**|**Diversity in Evolutionary Dynamics**|Yuval Rabani et.al.|[2406.03938](http://arxiv.org/abs/2406.03938)|null|
 |**2024-06-06**|**Online Control in Population Dynamics**|Noah Golowich et.al.|[2406.01799](http://arxiv.org/abs/2406.01799)|null|
-|**2024-06-03**|**Reciprocal Reward Influence Encourages Cooperation From Self-Interested Agents**|John L. Zhou et.al.|[2406.01641](http://arxiv.org/abs/2406.01641)|null|
+|**2024-06-03**|**Reciprocal Reward Influence Encourages Cooperation From Self-Interested Agents**|John L. Zhou et.al.|[2406.01641](http://arxiv.org/abs/2406.01641)|**[link](https://github.com/johnlyzhou/reciprocator)**|
 |**2024-06-02**|**A memory-based spatial evolutionary game with the dynamic interaction between learners and profiteers**|Bin Pi et.al.|[2406.00662](http://arxiv.org/abs/2406.00662)|null|
 |**2024-06-20**|**The development of drug resistance in metastatic tumours under chemotherapy: an evolutionary perspective**|Federica Padovano et.al.|[2405.20203](http://arxiv.org/abs/2405.20203)|null|
 |**2024-05-29**|**Unbending strategies shepherd cooperation and suppress extortion in spatial populations**|Zijie Chen et.al.|[2405.19565](http://arxiv.org/abs/2405.19565)|**[link](https://github.com/fufeng/unbending3S)**|
