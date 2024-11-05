@@ -29,6 +29,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-01**|**Two timescales in stochastic evolutionary games**|Sabin Lessard et.al.|[2411.01032](http://arxiv.org/abs/2411.01032)|null|
+|**2024-11-04**|**Evolutionary accumulation modelling in AMR: machine learning to infer and predict evolutionary dynamics of multi-drug resistance**|Jessica Renz et.al.|[2411.00219](http://arxiv.org/abs/2411.00219)|**[link](https://github.com/StochasticBiology/EvAM-MDR)**|
 |**2024-10-30**|**Seasonal social dilemmas**|Lucas S. Flores et.al.|[2410.22917](http://arxiv.org/abs/2410.22917)|null|
 |**2024-10-30**|**An invariance principle based concentration result for large-scale stochastic pairwise interaction network systems**|Giacomo Como et.al.|[2410.22820](http://arxiv.org/abs/2410.22820)|null|
 |**2024-11-01**|**Evolutionary dynamics with random payoff matrices**|Manh Hong Duong et.al.|[2410.22010](http://arxiv.org/abs/2410.22010)|null|
@@ -482,6 +484,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-03**|**A High-Resolution, US-scale Digital Similar of Interacting Livestock, Wild Birds, and Human Ecosystems with Applications to Multi-host Epidemic Spread**|Abhijin Adiga et.al.|[2411.01386](http://arxiv.org/abs/2411.01386)|null|
+|**2024-11-01**|**The Dynamics of Triple Interactions in Resting fMRI: Insights into Psychotic Disorders**|Qiang Li et.al.|[2411.00982](http://arxiv.org/abs/2411.00982)|null|
 |**2024-10-31**|**Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting**|Suhan Guo et.al.|[2410.24023](http://arxiv.org/abs/2410.24023)|null|
 |**2024-10-29**|**Competition between simple and complex contagion on temporal networks**|Elsa Andres et.al.|[2410.22115](http://arxiv.org/abs/2410.22115)|null|
 |**2024-10-23**|**Global synchronization theorem for coupled swarmalators**|Kevin P. O'Keeffe et.al.|[2410.18011](http://arxiv.org/abs/2410.18011)|null|
