@@ -29,6 +29,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-20**|**A phenotype-structured mathematical model for the influence of hypoxia on oncolytic virotherapy**|David Morselli et.al.|[2411.02413](http://arxiv.org/abs/2411.02413)|null|
 |**2024-11-01**|**Two timescales in stochastic evolutionary games**|Sabin Lessard et.al.|[2411.01032](http://arxiv.org/abs/2411.01032)|null|
 |**2024-11-04**|**Evolutionary accumulation modelling in AMR: machine learning to infer and predict evolutionary dynamics of multi-drug resistance**|Jessica Renz et.al.|[2411.00219](http://arxiv.org/abs/2411.00219)|**[link](https://github.com/StochasticBiology/EvAM-MDR)**|
 |**2024-10-30**|**Seasonal social dilemmas**|Lucas S. Flores et.al.|[2410.22917](http://arxiv.org/abs/2410.22917)|null|
