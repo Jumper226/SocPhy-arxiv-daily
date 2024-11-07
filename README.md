@@ -485,6 +485,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Temporal Network Creation Games: The Impact of Non-Locality and Terminals**|Davide Bilò et.al.|[2411.03973](http://arxiv.org/abs/2411.03973)|null|
 |**2024-11-03**|**A High-Resolution, US-scale Digital Similar of Interacting Livestock, Wild Birds, and Human Ecosystems with Applications to Multi-host Epidemic Spread**|Abhijin Adiga et.al.|[2411.01386](http://arxiv.org/abs/2411.01386)|null|
 |**2024-11-05**|**The Dynamics of Triple Interactions in Resting fMRI: Insights into Psychotic Disorders**|Qiang Li et.al.|[2411.00982](http://arxiv.org/abs/2411.00982)|null|
 |**2024-10-31**|**Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting**|Suhan Guo et.al.|[2410.24023](http://arxiv.org/abs/2410.24023)|null|
