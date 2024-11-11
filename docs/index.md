@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Evolution of cooperation in a three-strategy game combining snowdrift and stag hunt games**|Hirofumi Takesue et.al.|[2411.05543](http://arxiv.org/abs/2411.05543)|null|
 |**2024-10-20**|**A phenotype-structured mathematical model for the influence of hypoxia on oncolytic virotherapy**|David Morselli et.al.|[2411.02413](http://arxiv.org/abs/2411.02413)|null|
 |**2024-11-01**|**Two timescales in stochastic evolutionary games**|Sabin Lessard et.al.|[2411.01032](http://arxiv.org/abs/2411.01032)|null|
 |**2024-11-04**|**Evolutionary accumulation modelling in AMR: machine learning to infer and predict evolutionary dynamics of multi-drug resistance**|Jessica Renz et.al.|[2411.00219](http://arxiv.org/abs/2411.00219)|**[link](https://github.com/StochasticBiology/EvAM-MDR)**|
@@ -473,6 +474,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Generating surrogate temporal networks from mesoscale building blocks**|Giulia Cencetti et.al.|[2411.05477](http://arxiv.org/abs/2411.05477)|null|
 |**2024-11-07**|**Faster feasibility for dynamic flows and transshipments on temporal networks**|Kristin Sheridan et.al.|[2411.04906](http://arxiv.org/abs/2411.04906)|null|
 |**2024-11-06**|**Temporal Network Creation Games: The Impact of Non-Locality and Terminals**|Davide Bilò et.al.|[2411.03973](http://arxiv.org/abs/2411.03973)|null|
 |**2024-11-03**|**A High-Resolution, US-scale Digital Similar of Interacting Livestock, Wild Birds, and Human Ecosystems with Applications to Multi-host Epidemic Spread**|Abhijin Adiga et.al.|[2411.01386](http://arxiv.org/abs/2411.01386)|null|
