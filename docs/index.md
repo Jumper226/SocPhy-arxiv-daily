@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Human game experiment to verify the equilibrium selection controlled by design**|Wang Zhijian et.al.|[2411.06847](http://arxiv.org/abs/2411.06847)|null|
 |**2024-11-08**|**Evolution of cooperation in a three-strategy game combining snowdrift and stag hunt games**|Hirofumi Takesue et.al.|[2411.05543](http://arxiv.org/abs/2411.05543)|null|
 |**2024-10-20**|**A phenotype-structured mathematical model for the influence of hypoxia on oncolytic virotherapy**|David Morselli et.al.|[2411.02413](http://arxiv.org/abs/2411.02413)|null|
 |**2024-11-01**|**Two timescales in stochastic evolutionary games**|Sabin Lessard et.al.|[2411.01032](http://arxiv.org/abs/2411.01032)|null|
