@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Dynamic Evolutionary Game Analysis of How Fintech in Banking Mitigates Risks in Agricultural Supply Chain Finance**|Qiang Wan et.al.|[2411.07604](http://arxiv.org/abs/2411.07604)|null|
+|**2024-11-11**|**A Total Variation Flow Scheme for Ergodic Mean Field Games**|Dante Kalise et.al.|[2411.07331](http://arxiv.org/abs/2411.07331)|null|
 |**2024-11-11**|**Human game experiment to verify the equilibrium selection controlled by design**|Wang Zhijian et.al.|[2411.06847](http://arxiv.org/abs/2411.06847)|null|
 |**2024-11-08**|**Evolution of cooperation in a three-strategy game combining snowdrift and stag hunt games**|Hirofumi Takesue et.al.|[2411.05543](http://arxiv.org/abs/2411.05543)|null|
 |**2024-10-20**|**A phenotype-structured mathematical model for the influence of hypoxia on oncolytic virotherapy**|David Morselli et.al.|[2411.02413](http://arxiv.org/abs/2411.02413)|null|
