@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -475,7 +475,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-08**|**Generating surrogate temporal networks from mesoscale building blocks**|Giulia Cencetti et.al.|[2411.05477](http://arxiv.org/abs/2411.05477)|null|
+|**2024-11-08**|**Generating surrogate temporal networks from mesoscale building blocks**|Giulia Cencetti et.al.|[2411.05477](http://arxiv.org/abs/2411.05477)|**[link](https://github.com/giuliacencetti/surrogate_net_generation)**|
 |**2024-11-07**|**Faster feasibility for dynamic flows and transshipments on temporal networks**|Kristin Sheridan et.al.|[2411.04906](http://arxiv.org/abs/2411.04906)|null|
 |**2024-11-06**|**Temporal Network Creation Games: The Impact of Non-Locality and Terminals**|Davide Bilò et.al.|[2411.03973](http://arxiv.org/abs/2411.03973)|null|
 |**2024-11-03**|**A High-Resolution, US-scale Digital Similar of Interacting Livestock, Wild Birds, and Human Ecosystems with Applications to Multi-host Epidemic Spread**|Abhijin Adiga et.al.|[2411.01386](http://arxiv.org/abs/2411.01386)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2019-12-18**|**Higher-Order Topology in Bismuth**|Frank Schindler et.al.|[1802.02585](http://arxiv.org/abs/1802.02585)|null|
 |**2017-10-08**|**An Expressive Probabilistic Temporal Logic**|Bruno Woltzenlogel Paleo et.al.|[1603.07453](http://arxiv.org/abs/1603.07453)|**[link](https://github.com/Paradoxika/ProbLogic)**|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## evolutionary game
 
@@ -272,7 +272,7 @@
 |**2023-06-02**|**Deterministic Approximation of a Stochastic Imitation Dynamics with Memory**|Ozgur Aydogmus et.al.|[2306.01448](http://arxiv.org/abs/2306.01448)|null|
 |**2024-02-25**|**Evolutionary dynamics with temporal higher-order interactions**|Xiaochen Wang et.al.|[2306.01300](http://arxiv.org/abs/2306.01300)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## network reconstruction
 
@@ -481,13 +481,13 @@
 |**2016-05-27**|**Growth against entropy in bacterial metabolism: the phenotypic trade-off behind empirical growth rate distributions in E. coli**|Daniele De Martino et.al.|[1601.03243](http://arxiv.org/abs/1601.03243)|null|
 |**2015-12-18**|**Network Cartography: Seeing the Forest and the Trees**|Jia Wang et.al.|[1512.06021](http://arxiv.org/abs/1512.06021)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 ## temporal network
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-08**|**Generating surrogate temporal networks from mesoscale building blocks**|Giulia Cencetti et.al.|[2411.05477](http://arxiv.org/abs/2411.05477)|null|
+|**2024-11-08**|**Generating surrogate temporal networks from mesoscale building blocks**|Giulia Cencetti et.al.|[2411.05477](http://arxiv.org/abs/2411.05477)|**[link](https://github.com/giuliacencetti/surrogate_net_generation)**|
 |**2024-11-07**|**Faster feasibility for dynamic flows and transshipments on temporal networks**|Kristin Sheridan et.al.|[2411.04906](http://arxiv.org/abs/2411.04906)|null|
 |**2024-11-06**|**Temporal Network Creation Games: The Impact of Non-Locality and Terminals**|Davide Bilò et.al.|[2411.03973](http://arxiv.org/abs/2411.03973)|null|
 |**2024-11-03**|**A High-Resolution, US-scale Digital Similar of Interacting Livestock, Wild Birds, and Human Ecosystems with Applications to Multi-host Epidemic Spread**|Abhijin Adiga et.al.|[2411.01386](http://arxiv.org/abs/2411.01386)|null|
@@ -718,7 +718,7 @@
 |**2023-04-14**|**The emergence of burstiness in temporal networks**|Anzhi Sheng et.al.|[2112.10527](http://arxiv.org/abs/2112.10527)|null|
 |**2021-12-15**|**Epidemic spreading in populations of mobile agents with adaptive behavioral response**|Paulo Cesar Ventura et.al.|[2112.07829](http://arxiv.org/abs/2112.07829)|null|
 
-<p align=right>(<a href=#updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jumper226/SocPhy-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jumper226/SocPhy-arxiv-daily/graphs/contributors
