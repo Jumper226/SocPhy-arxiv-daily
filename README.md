@@ -29,6 +29,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**Steady-State and Dynamical Behavior of a PDE Model of Multilevel Selection with Pairwise Group-Level Competition**|Konstantinos Alexiou et.al.|[2411.08387](http://arxiv.org/abs/2411.08387)|null|
+|**2024-11-13**|**On the inadequacy of nudging data assimilation algorithms for non-dissipative systems: A computational examination of the Korteweg de-Vries and Lorenz equations**|Edriss S. Titi et.al.|[2411.08273](http://arxiv.org/abs/2411.08273)|null|
 |**2024-11-12**|**Dynamic Evolutionary Game Analysis of How Fintech in Banking Mitigates Risks in Agricultural Supply Chain Finance**|Qiang Wan et.al.|[2411.07604](http://arxiv.org/abs/2411.07604)|null|
 |**2024-11-11**|**A Total Variation Flow Scheme for Ergodic Mean Field Games**|Dante Kalise et.al.|[2411.07331](http://arxiv.org/abs/2411.07331)|null|
 |**2024-11-11**|**Human game experiment to verify the equilibrium selection controlled by design**|Wang Zhijian et.al.|[2411.06847](http://arxiv.org/abs/2411.06847)|null|
