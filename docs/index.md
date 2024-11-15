@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Adaptive dynamics of direct reciprocity with N rounds of memory**|Nataliya Balabanova et.al.|[2411.09535](http://arxiv.org/abs/2411.09535)|null|
+|**2024-11-14**|**Adaptive dynamics for individual payoff game-theoretic models of vaccination**|Nataliya Balabanova et.al.|[2411.09519](http://arxiv.org/abs/2411.09519)|null|
 |**2024-11-13**|**Steady-State and Dynamical Behavior of a PDE Model of Multilevel Selection with Pairwise Group-Level Competition**|Konstantinos Alexiou et.al.|[2411.08387](http://arxiv.org/abs/2411.08387)|null|
 |**2024-11-13**|**On the inadequacy of nudging data assimilation algorithms for non-dissipative systems: A computational examination of the Korteweg de-Vries and Lorenz equations**|Edriss S. Titi et.al.|[2411.08273](http://arxiv.org/abs/2411.08273)|null|
 |**2024-11-12**|**Dynamic Evolutionary Game Analysis of How Fintech in Banking Mitigates Risks in Agricultural Supply Chain Finance**|Qiang Wan et.al.|[2411.07604](http://arxiv.org/abs/2411.07604)|null|
