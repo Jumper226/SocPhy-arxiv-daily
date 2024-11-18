@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Static network structure cannot stabilize cooperation among Large Language Model agents**|Jin Han et.al.|[2411.10294](http://arxiv.org/abs/2411.10294)|null|
+|**2024-11-15**|**InvestESG: A multi-agent reinforcement learning benchmark for studying climate investment as a social dilemma**|Xiaoxuan Hou et.al.|[2411.09856](http://arxiv.org/abs/2411.09856)|null|
 |**2024-11-14**|**Adaptive dynamics of direct reciprocity with N rounds of memory**|Nataliya Balabanova et.al.|[2411.09535](http://arxiv.org/abs/2411.09535)|null|
 |**2024-11-14**|**Adaptive dynamics for individual payoff game-theoretic models of vaccination**|Nataliya Balabanova et.al.|[2411.09519](http://arxiv.org/abs/2411.09519)|null|
 |**2024-11-13**|**Steady-State and Dynamical Behavior of a PDE Model of Multilevel Selection with Pairwise Group-Level Competition**|Konstantinos Alexiou et.al.|[2411.08387](http://arxiv.org/abs/2411.08387)|**[link](https://github.com/dbcooney/Multilevel-Pairwise-Group-Paper-Code)**|
@@ -481,6 +483,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**A Multi-Scale Spatial-Temporal Network for Wireless Video Transmission**|Xinyi Zhou et.al.|[2411.09936](http://arxiv.org/abs/2411.09936)|null|
 |**2024-11-08**|**Generating surrogate temporal networks from mesoscale building blocks**|Giulia Cencetti et.al.|[2411.05477](http://arxiv.org/abs/2411.05477)|**[link](https://github.com/giuliacencetti/surrogate_net_generation)**|
 |**2024-11-07**|**Faster feasibility for dynamic flows and transshipments on temporal networks**|Kristin Sheridan et.al.|[2411.04906](http://arxiv.org/abs/2411.04906)|null|
 |**2024-11-06**|**Temporal Network Creation Games: The Impact of Non-Locality and Terminals**|Davide Bilò et.al.|[2411.03973](http://arxiv.org/abs/2411.03973)|null|
