@@ -29,6 +29,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Multi-agent Path Finding for Timed Tasks using Evolutionary Games**|Sheryl Paul et.al.|[2411.10558](http://arxiv.org/abs/2411.10558)|null|
+|**2024-11-01**|**Evolutionary Multi-agent Reinforcement Learning in Group Social Dilemmas**|Brian Mintz et.al.|[2411.10459](http://arxiv.org/abs/2411.10459)|null|
 |**2024-11-15**|**Static network structure cannot stabilize cooperation among Large Language Model agents**|Jin Han et.al.|[2411.10294](http://arxiv.org/abs/2411.10294)|null|
 |**2024-11-15**|**InvestESG: A multi-agent reinforcement learning benchmark for studying climate investment as a social dilemma**|Xiaoxuan Hou et.al.|[2411.09856](http://arxiv.org/abs/2411.09856)|null|
 |**2024-11-14**|**Adaptive dynamics of direct reciprocity with N rounds of memory**|Nataliya Balabanova et.al.|[2411.09535](http://arxiv.org/abs/2411.09535)|null|
@@ -286,6 +288,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**PALMS: Parallel Adaptive Lasso with Multi-directional Signals for Latent Networks Reconstruction**|Zhaoyu Xing et.al.|[2411.11464](http://arxiv.org/abs/2411.11464)|null|
 |**2024-09-13**|**End-to-end metasurface design for temperature imaging via broadband Planck-radiation regression**|Sophie Fisher et.al.|[2409.08456](http://arxiv.org/abs/2409.08456)|null|
 |**2024-09-06**|**Network reconstruction may not mean dynamics prediction**|Zhendong Yu et.al.|[2409.04240](http://arxiv.org/abs/2409.04240)|null|
 |**2024-11-15**|**Orientability of Undirected Phylogenetic Networks to a Desired Class: Practical Algorithms and Application to Tree-Child Orientation**|Tsuyoshi Urata et.al.|[2407.09776](http://arxiv.org/abs/2407.09776)|**[link](https://github.com/hayamizu-lab/tree-child-orienter)**|
@@ -495,6 +498,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Hierarchical-Graph-Structured Edge Partition Models for Learning Evolving Community Structure**|Xincan Yu et.al.|[2411.11536](http://arxiv.org/abs/2411.11536)|null|
+|**2024-11-15**|**Quantifying community evolves in temporal networks**|Peijie Zhong et.al.|[2411.10632](http://arxiv.org/abs/2411.10632)|null|
 |**2024-11-15**|**A Multi-Scale Spatial-Temporal Network for Wireless Video Transmission**|Xinyi Zhou et.al.|[2411.09936](http://arxiv.org/abs/2411.09936)|null|
 |**2024-11-08**|**Generating surrogate temporal networks from mesoscale building blocks**|Giulia Cencetti et.al.|[2411.05477](http://arxiv.org/abs/2411.05477)|**[link](https://github.com/giuliacencetti/surrogate_net_generation)**|
 |**2024-11-07**|**Faster feasibility for dynamic flows and transshipments on temporal networks**|Kristin Sheridan et.al.|[2411.04906](http://arxiv.org/abs/2411.04906)|null|
@@ -504,7 +509,7 @@
 |**2024-10-31**|**Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting**|Suhan Guo et.al.|[2410.24023](http://arxiv.org/abs/2410.24023)|null|
 |**2024-10-29**|**Competition between simple and complex contagion on temporal networks**|Elsa Andres et.al.|[2410.22115](http://arxiv.org/abs/2410.22115)|null|
 |**2024-10-23**|**Global synchronization theorem for coupled swarmalators**|Kevin P. O'Keeffe et.al.|[2410.18011](http://arxiv.org/abs/2410.18011)|null|
-|**2024-10-23**|**Dynamic models of gentrification**|Giovanni Mauro et.al.|[2410.18004](http://arxiv.org/abs/2410.18004)|null|
+|**2024-11-18**|**Dynamic models of gentrification**|Giovanni Mauro et.al.|[2410.18004](http://arxiv.org/abs/2410.18004)|null|
 |**2024-10-22**|**Efficient computation of \lowercase{ $f$ }-centralities and nonbacktracking centrality for temporal networks**|Vanni Noferini et.al.|[2410.17352](http://arxiv.org/abs/2410.17352)|null|
 |**2024-10-19**|**Towards Truss-Based Temporal Community Search**|Huihui Yang et.al.|[2410.15046](http://arxiv.org/abs/2410.15046)|null|
 |**2024-10-01**|**Recovering Time-Varying Networks From Single-Cell Data**|Euxhen Hasanaj et.al.|[2410.01853](http://arxiv.org/abs/2410.01853)|null|
