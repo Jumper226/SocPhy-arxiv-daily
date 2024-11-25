@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**To Be a Truster or Not to Be: Evolutionary Dynamics of a Symmetric N-Player Trust Game in Well-Mixed and Networked Populations**|Ik Soo Lim et.al.|[2411.14845](http://arxiv.org/abs/2411.14845)|null|
 |**2024-11-19**|**Environmental variability promotes the evolution of cooperation among geographically dispersed groups on dynamic networks**|Masaaki Inaba et.al.|[2411.12348](http://arxiv.org/abs/2411.12348)|**[link](https://github.com/mas178/Inaba2024)**|
 |**2024-11-19**|**Perception of Digital Privacy Protection: An Empirical Study using GDPR Framework**|Hamoud Alhazmi et.al.|[2411.12223](http://arxiv.org/abs/2411.12223)|null|
 |**2024-11-19**|**Exceptional Points and Stability in Nonlinear Models of Population Dynamics having $\mathcal{PT}$ symmetry**|Alexander Felski et.al.|[2411.12167](http://arxiv.org/abs/2411.12167)|null|
