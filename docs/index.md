@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Connections between sequential Bayesian inference and evolutionary dynamics**|Sahani Pathiraja et.al.|[2411.16366](http://arxiv.org/abs/2411.16366)|null|
 |**2024-11-22**|**To Be a Truster or Not to Be: Evolutionary Dynamics of a Symmetric N-Player Trust Game in Well-Mixed and Networked Populations**|Ik Soo Lim et.al.|[2411.14845](http://arxiv.org/abs/2411.14845)|null|
 |**2024-11-19**|**Environmental variability promotes the evolution of cooperation among geographically dispersed groups on dynamic networks**|Masaaki Inaba et.al.|[2411.12348](http://arxiv.org/abs/2411.12348)|**[link](https://github.com/mas178/Inaba2024)**|
 |**2024-11-19**|**Perception of Digital Privacy Protection: An Empirical Study using GDPR Framework**|Hamoud Alhazmi et.al.|[2411.12223](http://arxiv.org/abs/2411.12223)|null|
@@ -286,7 +287,7 @@ layout: default
 |**2024-09-13**|**End-to-end metasurface design for temperature imaging via broadband Planck-radiation regression**|Sophie Fisher et.al.|[2409.08456](http://arxiv.org/abs/2409.08456)|null|
 |**2024-09-06**|**Network reconstruction may not mean dynamics prediction**|Zhendong Yu et.al.|[2409.04240](http://arxiv.org/abs/2409.04240)|null|
 |**2024-11-15**|**Orientability of Undirected Phylogenetic Networks to a Desired Class: Practical Algorithms and Application to Tree-Child Orientation**|Tsuyoshi Urata et.al.|[2407.09776](http://arxiv.org/abs/2407.09776)|**[link](https://github.com/hayamizu-lab/tree-child-orienter)**|
-|**2024-07-09**|**Full Identification of a Growing and Branching Network's Spatio-Temporal Structures**|Thibault Chassereau et.al.|[2407.06824](http://arxiv.org/abs/2407.06824)|null|
+|**2024-11-25**|**Full Identification of a Growing and Branching Network's Spatio-Temporal Structures**|Thibault Chassereau et.al.|[2407.06824](http://arxiv.org/abs/2407.06824)|null|
 |**2024-10-21**|**A compact model of Escherichia coli core and biosynthetic metabolism**|Marco Corrao et.al.|[2406.16596](http://arxiv.org/abs/2406.16596)|**[link](https://github.com/marco-corrao/ich360_paper)**|
 |**2024-05-07**|**Network reconstruction via the minimum description length principle**|Tiago P. Peixoto et.al.|[2405.01015](http://arxiv.org/abs/2405.01015)|**[link](https://git.skewed.de/count0/graph-tool)**|
 |**2024-08-23**|**Reconstructing networks from simple and complex contagions**|Nicholas W. Landry et.al.|[2405.00129](http://arxiv.org/abs/2405.00129)|**[link](https://github.com/nwlandry/complex-network-reconstruction)**|
