@@ -29,6 +29,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Continual Evolution in Nonreciprocal Ecological Models**|Aditya Mahadevan et.al.|[2411.17148](http://arxiv.org/abs/2411.17148)|null|
 |**2024-11-25**|**Connections between sequential Bayesian inference and evolutionary dynamics**|Sahani Pathiraja et.al.|[2411.16366](http://arxiv.org/abs/2411.16366)|null|
 |**2024-11-22**|**To Be a Truster or Not to Be: Evolutionary Dynamics of a Symmetric N-Player Trust Game in Well-Mixed and Networked Populations**|Ik Soo Lim et.al.|[2411.14845](http://arxiv.org/abs/2411.14845)|null|
 |**2024-11-19**|**Environmental variability promotes the evolution of cooperation among geographically dispersed groups on dynamic networks**|Masaaki Inaba et.al.|[2411.12348](http://arxiv.org/abs/2411.12348)|**[link](https://github.com/mas178/Inaba2024)**|
