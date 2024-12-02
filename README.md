@@ -29,6 +29,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-28**|**The Co-evolution of Cooperation and Epidemic Spreading**|Mehran Noori et.al.|[2411.19375](http://arxiv.org/abs/2411.19375)|null|
 |**2024-11-26**|**Continual Evolution in Nonreciprocal Ecological Models**|Aditya Mahadevan et.al.|[2411.17148](http://arxiv.org/abs/2411.17148)|null|
 |**2024-11-25**|**Connections between sequential Bayesian inference and evolutionary dynamics**|Sahani Pathiraja et.al.|[2411.16366](http://arxiv.org/abs/2411.16366)|null|
 |**2024-11-22**|**To Be a Truster or Not to Be: Evolutionary Dynamics of a Symmetric N-Player Trust Game in Well-Mixed and Networked Populations**|Ik Soo Lim et.al.|[2411.14845](http://arxiv.org/abs/2411.14845)|null|
@@ -513,7 +514,7 @@
 |**2024-11-03**|**A High-Resolution, US-scale Digital Similar of Interacting Livestock, Wild Birds, and Human Ecosystems with Applications to Multi-host Epidemic Spread**|Abhijin Adiga et.al.|[2411.01386](http://arxiv.org/abs/2411.01386)|null|
 |**2024-11-05**|**The Dynamics of Triple Interactions in Resting fMRI: Insights into Psychotic Disorders**|Qiang Li et.al.|[2411.00982](http://arxiv.org/abs/2411.00982)|null|
 |**2024-10-31**|**Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting**|Suhan Guo et.al.|[2410.24023](http://arxiv.org/abs/2410.24023)|null|
-|**2024-11-26**|**Competition between simple and complex contagion on temporal networks**|Elsa Andres et.al.|[2410.22115](http://arxiv.org/abs/2410.22115)|null|
+|**2024-11-29**|**Competition between simple and complex contagion on temporal networks**|Elsa Andres et.al.|[2410.22115](http://arxiv.org/abs/2410.22115)|null|
 |**2024-10-23**|**Global synchronization theorem for coupled swarmalators**|Kevin P. O'Keeffe et.al.|[2410.18011](http://arxiv.org/abs/2410.18011)|null|
 |**2024-11-18**|**Dynamic models of gentrification**|Giovanni Mauro et.al.|[2410.18004](http://arxiv.org/abs/2410.18004)|null|
 |**2024-10-22**|**Efficient computation of \lowercase{ $f$ }-centralities and nonbacktracking centrality for temporal networks**|Vanni Noferini et.al.|[2410.17352](http://arxiv.org/abs/2410.17352)|null|
