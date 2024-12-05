@@ -22,7 +22,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-03**|**Deep learning approach for predicting the replicator equation in evolutionary game theory**|Advait Chandorkar et.al.|[2412.02222](http://arxiv.org/abs/2412.02222)|null|
-|**2024-11-30**|**Rethinking Generalizability and Discriminability of Self-Supervised Learning from Evolutionary Game Theory Perspective**|Jiangmeng Li et.al.|[2412.00542](http://arxiv.org/abs/2412.00542)|null|
+|**2024-11-30**|**Rethinking Generalizability and Discriminability of Self-Supervised Learning from Evolutionary Game Theory Perspective**|Jiangmeng Li et.al.|[2412.00542](http://arxiv.org/abs/2412.00542)|**[link](https://github.com/ZangZehua/essl)**|
 |**2024-11-28**|**The Co-evolution of Cooperation and Epidemic Spreading**|Mehran Noori et.al.|[2411.19375](http://arxiv.org/abs/2411.19375)|null|
 |**2024-11-26**|**Continual Evolution in Nonreciprocal Ecological Models**|Aditya Mahadevan et.al.|[2411.17148](http://arxiv.org/abs/2411.17148)|null|
 |**2024-11-25**|**Connections between sequential Bayesian inference and evolutionary dynamics**|Sahani Pathiraja et.al.|[2411.16366](http://arxiv.org/abs/2411.16366)|null|
@@ -495,6 +495,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**Scalar embedding of temporal network trajectories**|Lucas Lacasa et.al.|[2412.02715](http://arxiv.org/abs/2412.02715)|null|
 |**2024-12-03**|**Fast maximal clique enumeration in weighted temporal networks**|Hanjo D. Boekhout et.al.|[2412.02434](http://arxiv.org/abs/2412.02434)|null|
 |**2024-12-03**|**GSOT3D: Towards Generic 3D Single Object Tracking in the Wild**|Yifan Jiao et.al.|[2412.02129](http://arxiv.org/abs/2412.02129)|**[link](https://github.com/ailovejinx/gsot3d)**|
 |**2024-11-18**|**Hierarchical-Graph-Structured Edge Partition Models for Learning Evolving Community Structure**|Xincan Yu et.al.|[2411.11536](http://arxiv.org/abs/2411.11536)|null|
