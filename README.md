@@ -29,6 +29,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Mutation mitigates finite-size effects in spatial evolutionary games**|Chen Shen et.al.|[2412.04654](http://arxiv.org/abs/2412.04654)|null|
 |**2024-12-03**|**Deep learning approach for predicting the replicator equation in evolutionary game theory**|Advait Chandorkar et.al.|[2412.02222](http://arxiv.org/abs/2412.02222)|null|
 |**2024-11-30**|**Rethinking Generalizability and Discriminability of Self-Supervised Learning from Evolutionary Game Theory Perspective**|Jiangmeng Li et.al.|[2412.00542](http://arxiv.org/abs/2412.00542)|**[link](https://github.com/ZangZehua/essl)**|
 |**2024-11-28**|**The Co-evolution of Cooperation and Epidemic Spreading**|Mehran Noori et.al.|[2411.19375](http://arxiv.org/abs/2411.19375)|null|
