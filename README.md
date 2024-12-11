@@ -30,6 +30,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-08**|**Incentivized Symbiosis: A Paradigm for Human-Agent Coevolution**|Tomer Jordi Chaffer et.al.|[2412.06855](http://arxiv.org/abs/2412.06855)|null|
 |**2024-12-06**|**Promoting Cooperation in the Public Goods Game using Artificial Intelligent Agents**|Arend Hintze et.al.|[2412.05450](http://arxiv.org/abs/2412.05450)|null|
 |**2024-12-05**|**Mutation mitigates finite-size effects in spatial evolutionary games**|Chen Shen et.al.|[2412.04654](http://arxiv.org/abs/2412.04654)|null|
 |**2024-12-03**|**Deep learning approach for predicting the replicator equation in evolutionary game theory**|Advait Chandorkar et.al.|[2412.02222](http://arxiv.org/abs/2412.02222)|null|
@@ -510,6 +511,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**A Spectral Framework for Tracking Communities in Evolving Networks**|Jacob Hume et.al.|[2412.07378](http://arxiv.org/abs/2412.07378)|null|
+|**2024-12-10**|**Fast and exact simulations of stochastic epidemics on static and temporal networks**|Samuel Cure et.al.|[2412.07095](http://arxiv.org/abs/2412.07095)|null|
 |**2024-11-29**|**Scalar embedding of temporal network trajectories**|Lucas Lacasa et.al.|[2412.02715](http://arxiv.org/abs/2412.02715)|null|
 |**2024-12-03**|**Fast maximal clique enumeration in weighted temporal networks**|Hanjo D. Boekhout et.al.|[2412.02434](http://arxiv.org/abs/2412.02434)|null|
 |**2024-12-03**|**GSOT3D: Towards Generic 3D Single Object Tracking in the Wild**|Yifan Jiao et.al.|[2412.02129](http://arxiv.org/abs/2412.02129)|**[link](https://github.com/ailovejinx/gsot3d)**|
