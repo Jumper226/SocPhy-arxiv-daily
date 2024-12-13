@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -499,7 +499,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-10**|**A Spectral Framework for Tracking Communities in Evolving Networks**|Jacob Hume et.al.|[2412.07378](http://arxiv.org/abs/2412.07378)|null|
+|**2024-12-10**|**A Spectral Framework for Tracking Communities in Evolving Networks**|Jacob Hume et.al.|[2412.07378](http://arxiv.org/abs/2412.07378)|**[link](https://github.com/jacobh140/spectral-dcd)**|
 |**2024-12-10**|**Fast and exact simulations of stochastic epidemics on static and temporal networks**|Samuel Cure et.al.|[2412.07095](http://arxiv.org/abs/2412.07095)|null|
 |**2024-11-29**|**Scalar embedding of temporal network trajectories**|Lucas Lacasa et.al.|[2412.02715](http://arxiv.org/abs/2412.02715)|null|
 |**2024-12-03**|**Fast maximal clique enumeration in weighted temporal networks**|Hanjo D. Boekhout et.al.|[2412.02434](http://arxiv.org/abs/2412.02434)|null|
