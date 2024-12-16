@@ -30,6 +30,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**Cultural Evolution of Cooperation among LLM Agents**|Aron Vallinder et.al.|[2412.10270](http://arxiv.org/abs/2412.10270)|null|
+|**2024-12-11**|**On study of transition fronts of Fisher-KPP type reaction-diffusion PDEs by non-linear transformations into exactly solvable class**|Preet Mishra et.al.|[2412.09653](http://arxiv.org/abs/2412.09653)|null|
 |**2024-12-08**|**Incentivized Symbiosis: A Paradigm for Human-Agent Coevolution**|Tomer Jordi Chaffer et.al.|[2412.06855](http://arxiv.org/abs/2412.06855)|null|
 |**2024-12-06**|**Promoting Cooperation in the Public Goods Game using Artificial Intelligent Agents**|Arend Hintze et.al.|[2412.05450](http://arxiv.org/abs/2412.05450)|null|
 |**2024-12-05**|**Mutation mitigates finite-size effects in spatial evolutionary games**|Chen Shen et.al.|[2412.04654](http://arxiv.org/abs/2412.04654)|null|
