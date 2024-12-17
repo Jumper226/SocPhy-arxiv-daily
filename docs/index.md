@@ -22,6 +22,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Prediction of social dilemmas in networked populations via graph neural networks**|Huaiyu Tan et.al.|[2412.11775](http://arxiv.org/abs/2412.11775)|null|
+|**2024-12-14**|**Binary or nonbinary? An evolutionary learning approach to gender identity**|Hung Truong et.al.|[2412.10959](http://arxiv.org/abs/2412.10959)|null|
+|**2024-12-14**|**Supervised cooperation on interdependent public goods games**|Ting Ling et.al.|[2412.10873](http://arxiv.org/abs/2412.10873)|null|
+|**2024-12-13**|**Quasispecies dynamics with time lags and periodic fluctuations in replication**|Edward A. Turner et.al.|[2412.10475](http://arxiv.org/abs/2412.10475)|null|
 |**2024-12-13**|**Cultural Evolution of Cooperation among LLM Agents**|Aron Vallinder et.al.|[2412.10270](http://arxiv.org/abs/2412.10270)|null|
 |**2024-12-11**|**On study of transition fronts of Fisher-KPP type reaction-diffusion PDEs by non-linear transformations into exactly solvable class**|Preet Mishra et.al.|[2412.09653](http://arxiv.org/abs/2412.09653)|null|
 |**2024-12-08**|**Incentivized Symbiosis: A Paradigm for Human-Agent Coevolution**|Tomer Jordi Chaffer et.al.|[2412.06855](http://arxiv.org/abs/2412.06855)|null|
@@ -501,6 +505,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-14**|**Catch Me If You Can: Finding the Source of Infections in Temporal Networks**|Ben Bals et.al.|[2412.10877](http://arxiv.org/abs/2412.10877)|null|
 |**2024-12-12**|**Temporal Triadic Closure: Finding Dense Structures in Social Networks That Evolve**|Tom Davot et.al.|[2412.09567](http://arxiv.org/abs/2412.09567)|null|
 |**2024-12-10**|**A Spectral Framework for Tracking Communities in Evolving Networks**|Jacob Hume et.al.|[2412.07378](http://arxiv.org/abs/2412.07378)|**[link](https://github.com/jacobh140/spectral-dcd)**|
 |**2024-12-10**|**Fast and exact simulations of stochastic epidemics on static and temporal networks**|Samuel Cure et.al.|[2412.07095](http://arxiv.org/abs/2412.07095)|**[link](https://github.com/oist/nextnet)**|
