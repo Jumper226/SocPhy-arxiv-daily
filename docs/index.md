@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -503,7 +503,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-12**|**Temporal Triadic Closure: Finding Dense Structures in Social Networks That Evolve**|Tom Davot et.al.|[2412.09567](http://arxiv.org/abs/2412.09567)|null|
 |**2024-12-10**|**A Spectral Framework for Tracking Communities in Evolving Networks**|Jacob Hume et.al.|[2412.07378](http://arxiv.org/abs/2412.07378)|**[link](https://github.com/jacobh140/spectral-dcd)**|
-|**2024-12-10**|**Fast and exact simulations of stochastic epidemics on static and temporal networks**|Samuel Cure et.al.|[2412.07095](http://arxiv.org/abs/2412.07095)|null|
+|**2024-12-10**|**Fast and exact simulations of stochastic epidemics on static and temporal networks**|Samuel Cure et.al.|[2412.07095](http://arxiv.org/abs/2412.07095)|**[link](https://github.com/oist/nextnet)**|
 |**2024-11-29**|**Scalar embedding of temporal network trajectories**|Lucas Lacasa et.al.|[2412.02715](http://arxiv.org/abs/2412.02715)|null|
 |**2024-12-03**|**Fast maximal clique enumeration in weighted temporal networks**|Hanjo D. Boekhout et.al.|[2412.02434](http://arxiv.org/abs/2412.02434)|null|
 |**2024-12-03**|**GSOT3D: Towards Generic 3D Single Object Tracking in the Wild**|Yifan Jiao et.al.|[2412.02129](http://arxiv.org/abs/2412.02129)|**[link](https://github.com/ailovejinx/gsot3d)**|
