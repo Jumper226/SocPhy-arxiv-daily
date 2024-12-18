@@ -22,6 +22,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Structural Cellular Hash Chemistry**|Hiroki Sayama et.al.|[2412.12790](http://arxiv.org/abs/2412.12790)|null|
+|**2024-12-16**|**Achieving Collective Welfare in Multi-Agent Reinforcement Learning via Suggestion Sharing**|Yue Jin et.al.|[2412.12326](http://arxiv.org/abs/2412.12326)|null|
+|**2024-12-14**|**On the Field Theoretical Description of an Alternative Model to Generalized Chaplygin Gas and its Thermodynamic Behaviour**|Tamal Mukhopadhyay et.al.|[2412.12200](http://arxiv.org/abs/2412.12200)|null|
 |**2024-12-16**|**Prediction of social dilemmas in networked populations via graph neural networks**|Huaiyu Tan et.al.|[2412.11775](http://arxiv.org/abs/2412.11775)|null|
 |**2024-12-14**|**Binary or nonbinary? An evolutionary learning approach to gender identity**|Hung Truong et.al.|[2412.10959](http://arxiv.org/abs/2412.10959)|null|
 |**2024-12-14**|**Supervised cooperation on interdependent public goods games**|Ting Ling et.al.|[2412.10873](http://arxiv.org/abs/2412.10873)|null|
@@ -505,6 +508,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Clustering Time-Snapshots of Temporal Networks: From Synthetic Data to Real-World Applications**|Filip Blašković et.al.|[2412.12187](http://arxiv.org/abs/2412.12187)|null|
 |**2024-12-14**|**Catch Me If You Can: Finding the Source of Infections in Temporal Networks**|Ben Bals et.al.|[2412.10877](http://arxiv.org/abs/2412.10877)|null|
 |**2024-12-12**|**Temporal Triadic Closure: Finding Dense Structures in Social Networks That Evolve**|Tom Davot et.al.|[2412.09567](http://arxiv.org/abs/2412.09567)|null|
 |**2024-12-10**|**A Spectral Framework for Tracking Communities in Evolving Networks**|Jacob Hume et.al.|[2412.07378](http://arxiv.org/abs/2412.07378)|**[link](https://github.com/jacobh140/spectral-dcd)**|
