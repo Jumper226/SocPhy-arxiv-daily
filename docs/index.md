@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Insecticide treated bed net use and elimination of malaria in Sub-Saharan African countries: Assessing the Global Technical Strategy (GTS) using an evolutionary game approach**|Laxmi et.al.|[2412.13336](http://arxiv.org/abs/2412.13336)|null|
 |**2024-12-17**|**Structural Cellular Hash Chemistry**|Hiroki Sayama et.al.|[2412.12790](http://arxiv.org/abs/2412.12790)|null|
 |**2024-12-16**|**Achieving Collective Welfare in Multi-Agent Reinforcement Learning via Suggestion Sharing**|Yue Jin et.al.|[2412.12326](http://arxiv.org/abs/2412.12326)|null|
 |**2024-12-14**|**On the Field Theoretical Description of an Alternative Model to Generalized Chaplygin Gas and its Thermodynamic Behaviour**|Tamal Mukhopadhyay et.al.|[2412.12200](http://arxiv.org/abs/2412.12200)|null|
