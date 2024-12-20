@@ -23,7 +23,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-17**|**Insecticide treated bed net use and elimination of malaria in Sub-Saharan African countries: Assessing the Global Technical Strategy (GTS) using an evolutionary game approach**|Laxmi et.al.|[2412.13336](http://arxiv.org/abs/2412.13336)|null|
-|**2024-12-17**|**Structural Cellular Hash Chemistry**|Hiroki Sayama et.al.|[2412.12790](http://arxiv.org/abs/2412.12790)|null|
+|**2024-12-17**|**Structural Cellular Hash Chemistry**|Hiroki Sayama et.al.|[2412.12790](http://arxiv.org/abs/2412.12790)|**[link](https://github.com/hsayama/Structural-Cellular-Hash-Chemistry)**|
 |**2024-12-16**|**Achieving Collective Welfare in Multi-Agent Reinforcement Learning via Suggestion Sharing**|Yue Jin et.al.|[2412.12326](http://arxiv.org/abs/2412.12326)|null|
 |**2024-12-14**|**On the Field Theoretical Description of an Alternative Model to Generalized Chaplygin Gas and its Thermodynamic Behaviour**|Tamal Mukhopadhyay et.al.|[2412.12200](http://arxiv.org/abs/2412.12200)|null|
 |**2024-12-16**|**Prediction of social dilemmas in networked populations via graph neural networks**|Huaiyu Tan et.al.|[2412.11775](http://arxiv.org/abs/2412.11775)|null|
@@ -509,6 +509,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Assessing the effectiveness of test-trace-isolate interventions using a multi-layered temporal network**|Yunyi Cai et.al.|[2412.14892](http://arxiv.org/abs/2412.14892)|null|
+|**2024-12-19**|**Characterising the dynamics of unlabelled temporal networks**|Annalisa Caligiuri et.al.|[2412.14864](http://arxiv.org/abs/2412.14864)|null|
 |**2024-12-13**|**Clustering Time-Snapshots of Temporal Networks: From Synthetic Data to Real-World Applications**|Filip Blašković et.al.|[2412.12187](http://arxiv.org/abs/2412.12187)|null|
 |**2024-12-14**|**Catch Me If You Can: Finding the Source of Infections in Temporal Networks**|Ben Bals et.al.|[2412.10877](http://arxiv.org/abs/2412.10877)|null|
 |**2024-12-12**|**Temporal Triadic Closure: Finding Dense Structures in Social Networks That Evolve**|Tom Davot et.al.|[2412.09567](http://arxiv.org/abs/2412.09567)|null|
