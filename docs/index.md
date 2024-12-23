@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Fair Distributed Machine Learning with Imbalanced Data as a Stackelberg Evolutionary Game**|Sebastian Niehaus et.al.|[2412.16079](http://arxiv.org/abs/2412.16079)|null|
 |**2024-12-17**|**Insecticide treated bed net use and elimination of malaria in Sub-Saharan African countries: Assessing the Global Technical Strategy (GTS) using an evolutionary game approach**|Laxmi et.al.|[2412.13336](http://arxiv.org/abs/2412.13336)|null|
 |**2024-12-17**|**Structural Cellular Hash Chemistry**|Hiroki Sayama et.al.|[2412.12790](http://arxiv.org/abs/2412.12790)|**[link](https://github.com/hsayama/Structural-Cellular-Hash-Chemistry)**|
 |**2024-12-16**|**Achieving Collective Welfare in Multi-Agent Reinforcement Learning via Suggestion Sharing**|Yue Jin et.al.|[2412.12326](http://arxiv.org/abs/2412.12326)|null|
@@ -301,6 +302,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Multi-scale reconstruction of large supply networks**|Leonardo Niccolò Ialongo et.al.|[2412.16122](http://arxiv.org/abs/2412.16122)|null|
 |**2024-11-18**|**PALMS: Parallel Adaptive Lasso with Multi-directional Signals for Latent Networks Reconstruction**|Zhaoyu Xing et.al.|[2411.11464](http://arxiv.org/abs/2411.11464)|null|
 |**2024-09-13**|**End-to-end metasurface design for temperature imaging via broadband Planck-radiation regression**|Sophie Fisher et.al.|[2409.08456](http://arxiv.org/abs/2409.08456)|null|
 |**2024-09-06**|**Network reconstruction may not mean dynamics prediction**|Zhendong Yu et.al.|[2409.04240](http://arxiv.org/abs/2409.04240)|null|
