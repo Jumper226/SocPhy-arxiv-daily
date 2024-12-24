@@ -30,6 +30,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**The evolution of cooperation in spatial public goods game with tolerant punishment based on reputation threshold**|Gui Zhang et.al.|[2412.17351](http://arxiv.org/abs/2412.17351)|null|
+|**2024-12-22**|**FedCross: Intertemporal Federated Learning Under Evolutionary Games**|Jianfeng Lu et.al.|[2412.16968](http://arxiv.org/abs/2412.16968)|null|
+|**2024-12-20**|**Bifurcations and invariant sets for a family of replicator maps from evolutionary games**|Sergey Kryzhevich et.al.|[2412.16379](http://arxiv.org/abs/2412.16379)|null|
 |**2024-12-20**|**Fair Distributed Machine Learning with Imbalanced Data as a Stackelberg Evolutionary Game**|Sebastian Niehaus et.al.|[2412.16079](http://arxiv.org/abs/2412.16079)|null|
 |**2024-12-17**|**Insecticide treated bed net use and elimination of malaria in Sub-Saharan African countries: Assessing the Global Technical Strategy (GTS) using an evolutionary game approach**|Laxmi et.al.|[2412.13336](http://arxiv.org/abs/2412.13336)|null|
 |**2024-12-17**|**Structural Cellular Hash Chemistry**|Hiroki Sayama et.al.|[2412.12790](http://arxiv.org/abs/2412.12790)|**[link](https://github.com/hsayama/Structural-Cellular-Hash-Chemistry)**|
@@ -41,7 +44,7 @@
 |**2024-12-13**|**Quasispecies dynamics with time lags and periodic fluctuations in replication**|Edward A. Turner et.al.|[2412.10475](http://arxiv.org/abs/2412.10475)|null|
 |**2024-12-13**|**Cultural Evolution of Cooperation among LLM Agents**|Aron Vallinder et.al.|[2412.10270](http://arxiv.org/abs/2412.10270)|null|
 |**2024-12-11**|**On study of transition fronts of Fisher-KPP type reaction-diffusion PDEs by non-linear transformations into exactly solvable class**|Preet Mishra et.al.|[2412.09653](http://arxiv.org/abs/2412.09653)|null|
-|**2024-12-08**|**Incentivized Symbiosis: A Paradigm for Human-Agent Coevolution**|Tomer Jordi Chaffer et.al.|[2412.06855](http://arxiv.org/abs/2412.06855)|null|
+|**2024-12-23**|**Incentivized Symbiosis: A Paradigm for Human-Agent Coevolution**|Tomer Jordi Chaffer et.al.|[2412.06855](http://arxiv.org/abs/2412.06855)|null|
 |**2024-12-06**|**Promoting Cooperation in the Public Goods Game using Artificial Intelligent Agents**|Arend Hintze et.al.|[2412.05450](http://arxiv.org/abs/2412.05450)|null|
 |**2024-12-05**|**Mutation mitigates finite-size effects in spatial evolutionary games**|Chen Shen et.al.|[2412.04654](http://arxiv.org/abs/2412.04654)|null|
 |**2024-12-03**|**Deep learning approach for predicting the replicator equation in evolutionary game theory**|Advait Chandorkar et.al.|[2412.02222](http://arxiv.org/abs/2412.02222)|null|
