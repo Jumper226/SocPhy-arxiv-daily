@@ -30,6 +30,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-29**|**Game Theory and Multi-Agent Reinforcement Learning : From Nash Equilibria to Evolutionary Dynamics**|Neil De La Fuente et.al.|[2412.20523](http://arxiv.org/abs/2412.20523)|null|
+|**2024-12-28**|**Intrinsic noise in the compartment model of time delays in evolutionary games**|Jacek Miekisz et.al.|[2412.20113](http://arxiv.org/abs/2412.20113)|null|
+|**2024-12-27**|**Evolutionary games on the lattice: multitype contact process with density-dependent birth rates**|Jonas Köppl et.al.|[2412.19957](http://arxiv.org/abs/2412.19957)|null|
 |**2024-12-23**|**The evolution of cooperation in spatial public goods game with tolerant punishment based on reputation threshold**|Gui Zhang et.al.|[2412.17351](http://arxiv.org/abs/2412.17351)|null|
 |**2024-12-22**|**FedCross: Intertemporal Federated Learning Under Evolutionary Games**|Jianfeng Lu et.al.|[2412.16968](http://arxiv.org/abs/2412.16968)|null|
 |**2024-12-20**|**Bifurcations and invariant sets for a family of replicator maps from evolutionary games**|Sergey Kryzhevich et.al.|[2412.16379](http://arxiv.org/abs/2412.16379)|null|
@@ -526,6 +529,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Influence Maximization in Temporal Networks with Persistent and Reactive Behaviors**|Aaqib Zahoor et.al.|[2412.20936](http://arxiv.org/abs/2412.20936)|null|
 |**2024-12-18**|**Assessing the effectiveness of test-trace-isolate interventions using a multi-layered temporal network**|Yunyi Cai et.al.|[2412.14892](http://arxiv.org/abs/2412.14892)|null|
 |**2024-12-19**|**Characterising the dynamics of unlabelled temporal networks**|Annalisa Caligiuri et.al.|[2412.14864](http://arxiv.org/abs/2412.14864)|null|
 |**2024-12-13**|**Clustering Time-Snapshots of Temporal Networks: From Synthetic Data to Real-World Applications**|Filip Blašković et.al.|[2412.12187](http://arxiv.org/abs/2412.12187)|null|
