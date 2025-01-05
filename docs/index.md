@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Optimal Strategy Revision in Population Games: A Mean Field Game Theory Perspective**|Julian Barreiro-Gomez et.al.|[2501.01389](http://arxiv.org/abs/2501.01389)|null|
+|**2024-12-30**|**Deterministic Model of Incremental Multi-Agent Boltzmann Q-Learning: Transient Cooperation, Metastability, and Oscillations**|David Goll et.al.|[2501.00160](http://arxiv.org/abs/2501.00160)|null|
 |**2024-12-29**|**Game Theory and Multi-Agent Reinforcement Learning : From Nash Equilibria to Evolutionary Dynamics**|Neil De La Fuente et.al.|[2412.20523](http://arxiv.org/abs/2412.20523)|null|
 |**2024-12-28**|**Intrinsic noise in the compartment model of time delays in evolutionary games**|Jacek Miekisz et.al.|[2412.20113](http://arxiv.org/abs/2412.20113)|null|
 |**2024-12-27**|**Evolutionary games on the lattice: multitype contact process with density-dependent birth rates**|Jonas Köppl et.al.|[2412.19957](http://arxiv.org/abs/2412.19957)|null|
