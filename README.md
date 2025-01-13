@@ -774,7 +774,7 @@
 |**2022-02-07**|**T-NGA: Temporal Network Grafting Algorithm for Learning to Process Spiking Audio Sensor Events**|Shu Wang et.al.|[2202.03204](http://arxiv.org/abs/2202.03204)|null|
 |**2022-09-07**|**Structural importance and evolution: an application to financial transaction networks**|Isobel Seabrook et.al.|[2201.10620](http://arxiv.org/abs/2201.10620)|null|
 |**2022-01-19**|**Temporal Computer Organization**|James E. Smith et.al.|[2201.07742](http://arxiv.org/abs/2201.07742)|null|
-|**2024-05-08**|**Effects of concurrency on epidemic spreading in Markovian temporal networks**|Ruodan Liu et.al.|[2201.00754](http://arxiv.org/abs/2201.00754)|null|
+|**2024-05-08**|**Effects of concurrency on epidemic spreading in Markovian temporal networks**|Ruodan Liu et.al.|[2201.00754](http://arxiv.org/abs/2201.00754)|**[link](https://github.com/ruodanl/concurrency)**|
 |**2022-01-03**|**maskGRU: Tracking Small Objects in the Presence of Large Background Motions**|Constantine J. Roros et.al.|[2201.00467](http://arxiv.org/abs/2201.00467)|null|
 |**2021-12-30**|**Analytical Models for Motifs in Temporal Networks: Discovering Trends and Anomalies**|Alexandra Porter et.al.|[2112.14871](http://arxiv.org/abs/2112.14871)|null|
 |**2023-04-14**|**The emergence of burstiness in temporal networks**|Anzhi Sheng et.al.|[2112.10527](http://arxiv.org/abs/2112.10527)|null|
