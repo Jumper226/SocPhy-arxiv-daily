@@ -535,6 +535,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Identifying rich clubs in spatiotemporal interaction networks**|Jacob Kruse et.al.|[2501.05636](http://arxiv.org/abs/2501.05636)|null|
 |**2024-12-30**|**Influence Maximization in Temporal Networks with Persistent and Reactive Behaviors**|Aaqib Zahoor et.al.|[2412.20936](http://arxiv.org/abs/2412.20936)|null|
 |**2024-12-18**|**Assessing the effectiveness of test-trace-isolate interventions using a multi-layered temporal network**|Yunyi Cai et.al.|[2412.14892](http://arxiv.org/abs/2412.14892)|null|
 |**2024-12-19**|**Characterising the dynamics of unlabelled temporal networks**|Annalisa Caligiuri et.al.|[2412.14864](http://arxiv.org/abs/2412.14864)|null|
