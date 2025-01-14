@@ -22,6 +22,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Eco-evolutionary dynamics of a trait-structured predator-prey model**|Manh Hong Duong et.al.|[2501.07379](http://arxiv.org/abs/2501.07379)|null|
+|**2025-01-13**|**Self-organized institutions in evolutionary dynamical-systems game**|Kenji Itao et.al.|[2501.07249](http://arxiv.org/abs/2501.07249)|null|
+|**2025-01-13**|**Combined effect of incentives and coupling in multigames in two-layer networks**|Luo-Luo Jiang et.al.|[2501.07193](http://arxiv.org/abs/2501.07193)|null|
+|**2025-01-13**|**A New Concept of optimal control for epidemic spreading by Vaccination Technique for Assessing social optimum employing Pontryagins Maximum Principle**|Md. Mamun-Ur-Rashid Khan et.al.|[2501.07053](http://arxiv.org/abs/2501.07053)|null|
+|**2025-01-13**|**Statistical Modeling of Networked Evolutionary Public Goods Games**|Hiroyasu Ando et.al.|[2501.07007](http://arxiv.org/abs/2501.07007)|null|
+|**2025-01-11**|**Evolutionary game dynamics for higher-order interactions**|Jiachao Guo et.al.|[2501.06411](http://arxiv.org/abs/2501.06411)|null|
 |**2025-01-09**|**The global consensus on the risk management of autonomous driving**|Sebastian Krügel et.al.|[2501.05391](http://arxiv.org/abs/2501.05391)|null|
 |**2025-01-07**|**Kinetic theory of decentralized learning for smart active matter**|Gerhard Jung et.al.|[2501.03948](http://arxiv.org/abs/2501.03948)|null|
 |**2025-01-02**|**Optimal Strategy Revision in Population Games: A Mean Field Game Theory Perspective**|Julian Barreiro-Gomez et.al.|[2501.01389](http://arxiv.org/abs/2501.01389)|null|
@@ -523,6 +529,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Community Aware Temporal Network Generation**|Nicolò Alessandro Girardini et.al.|[2501.07327](http://arxiv.org/abs/2501.07327)|null|
+|**2025-01-13**|**Efficient Multiple Temporal Network Kernel Density Estimation**|Yu Shao et.al.|[2501.07106](http://arxiv.org/abs/2501.07106)|null|
+|**2025-01-11**|**A Diffusive Data Augmentation Framework for Reconstruction of Complex Network Evolutionary History**|En Xu et.al.|[2501.06485](http://arxiv.org/abs/2501.06485)|null|
 |**2025-01-10**|**Identifying rich clubs in spatiotemporal interaction networks**|Jacob Kruse et.al.|[2501.05636](http://arxiv.org/abs/2501.05636)|null|
 |**2024-12-30**|**Influence Maximization in Temporal Networks with Persistent and Reactive Behaviors**|Aaqib Zahoor et.al.|[2412.20936](http://arxiv.org/abs/2412.20936)|null|
 |**2024-12-18**|**Assessing the effectiveness of test-trace-isolate interventions using a multi-layered temporal network**|Yunyi Cai et.al.|[2412.14892](http://arxiv.org/abs/2412.14892)|null|
