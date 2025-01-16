@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-12**|**Kolmogorov-Arnold Networks and Evolutionary Game Theory for More Personalized Cancer Treatment**|Sepinoud Azimi et.al.|[2501.07611](http://arxiv.org/abs/2501.07611)|null|
 |**2025-01-13**|**Eco-evolutionary dynamics of a trait-structured predator-prey model**|Manh Hong Duong et.al.|[2501.07379](http://arxiv.org/abs/2501.07379)|null|
 |**2025-01-13**|**Self-organized institutions in evolutionary dynamical-systems game**|Kenji Itao et.al.|[2501.07249](http://arxiv.org/abs/2501.07249)|null|
 |**2025-01-13**|**Combined effect of incentives and coupling in multigames in two-layer networks**|Luo-Luo Jiang et.al.|[2501.07193](http://arxiv.org/abs/2501.07193)|null|
@@ -529,6 +530,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**BioPose: Biomechanically-accurate 3D Pose Estimation from Monocular Videos**|Farnoosh Koleini et.al.|[2501.07800](http://arxiv.org/abs/2501.07800)|null|
 |**2025-01-13**|**Community Aware Temporal Network Generation**|Nicolò Alessandro Girardini et.al.|[2501.07327](http://arxiv.org/abs/2501.07327)|null|
 |**2025-01-13**|**Efficient Multiple Temporal Network Kernel Density Estimation**|Yu Shao et.al.|[2501.07106](http://arxiv.org/abs/2501.07106)|null|
 |**2025-01-11**|**A Diffusive Data Augmentation Framework for Reconstruction of Complex Network Evolutionary History**|En Xu et.al.|[2501.06485](http://arxiv.org/abs/2501.06485)|null|
