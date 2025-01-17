@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.16
+## Updated on 2025.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -534,7 +534,7 @@ layout: default
 |**2025-01-13**|**Community Aware Temporal Network Generation**|Nicolò Alessandro Girardini et.al.|[2501.07327](http://arxiv.org/abs/2501.07327)|null|
 |**2025-01-13**|**Efficient Multiple Temporal Network Kernel Density Estimation**|Yu Shao et.al.|[2501.07106](http://arxiv.org/abs/2501.07106)|null|
 |**2025-01-11**|**A Diffusive Data Augmentation Framework for Reconstruction of Complex Network Evolutionary History**|En Xu et.al.|[2501.06485](http://arxiv.org/abs/2501.06485)|null|
-|**2025-01-10**|**Identifying rich clubs in spatiotemporal interaction networks**|Jacob Kruse et.al.|[2501.05636](http://arxiv.org/abs/2501.05636)|null|
+|**2025-01-10**|**Identifying rich clubs in spatiotemporal interaction networks**|Jacob Kruse et.al.|[2501.05636](http://arxiv.org/abs/2501.05636)|**[link](https://github.com/GeoDS/WTRC)**|
 |**2024-12-30**|**Influence Maximization in Temporal Networks with Persistent and Reactive Behaviors**|Aaqib Zahoor et.al.|[2412.20936](http://arxiv.org/abs/2412.20936)|null|
 |**2024-12-18**|**Assessing the effectiveness of test-trace-isolate interventions using a multi-layered temporal network**|Yunyi Cai et.al.|[2412.14892](http://arxiv.org/abs/2412.14892)|null|
 |**2024-12-19**|**Characterising the dynamics of unlabelled temporal networks**|Annalisa Caligiuri et.al.|[2412.14864](http://arxiv.org/abs/2412.14864)|null|
