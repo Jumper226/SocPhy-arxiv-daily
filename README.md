@@ -542,6 +542,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Efficient Sampling of Temporal Networks with Preserved Causality Structure**|Felix I. Stamm et.al.|[2501.09856](http://arxiv.org/abs/2501.09856)|null|
 |**2025-01-14**|**BioPose: Biomechanically-accurate 3D Pose Estimation from Monocular Videos**|Farnoosh Koleini et.al.|[2501.07800](http://arxiv.org/abs/2501.07800)|null|
 |**2025-01-13**|**Community Aware Temporal Network Generation**|Nicolò Alessandro Girardini et.al.|[2501.07327](http://arxiv.org/abs/2501.07327)|null|
 |**2025-01-13**|**Efficient Multiple Temporal Network Kernel Density Estimation**|Yu Shao et.al.|[2501.07106](http://arxiv.org/abs/2501.07106)|null|
