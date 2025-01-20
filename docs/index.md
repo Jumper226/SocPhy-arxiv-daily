@@ -759,7 +759,7 @@ layout: default
 |**2022-03-30**|**Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability using Tree Search and Graph Neural Networks**|Kevin Osanlou et.al.|[2203.15030](http://arxiv.org/abs/2203.15030)|null|
 |**2022-03-28**|**Temporal Cascade Model for Analyzing Spread in Evolving Networks with Disease Monitoring Applications**|Aparajita Haldar et.al.|[2203.14925](http://arxiv.org/abs/2203.14925)|**[link](https://github.com/publiccoderepo/T-IC-model)**|
 |**2022-06-10**|**Analysis of the competition among viral strains using a temporal interaction-driven contagion model**|Alex Abbey et.al.|[2203.08115](http://arxiv.org/abs/2203.08115)|null|
-|**2022-03-15**|**Graph-Survival: A Survival Analysis Framework for Machine Learning on Temporal Networks**|Raphaël Romero et.al.|[2203.07260](http://arxiv.org/abs/2203.07260)|null|
+|**2022-03-15**|**Graph-Survival: A Survival Analysis Framework for Machine Learning on Temporal Networks**|Raphaël Romero et.al.|[2203.07260](http://arxiv.org/abs/2203.07260)|**[link](https://github.com/mathoup31/simhawnet)**|
 |**2022-03-10**|**Temporal Network Epistemology: on Reaching Consensus in Real World Setting**|Radosław Michalski et.al.|[2203.05368](http://arxiv.org/abs/2203.05368)|null|
 |**2022-03-02**|**On packing time-respecting arborescences**|Romain Chapoullié et.al.|[2203.01096](http://arxiv.org/abs/2203.01096)|null|
 |**2022-03-22**|**Colar: Effective and Efficient Online Action Detection by Consulting Exemplars**|Le Yang et.al.|[2203.01057](http://arxiv.org/abs/2203.01057)|**[link](https://github.com/vividle/online-action-detection)**|
