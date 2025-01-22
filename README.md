@@ -30,6 +30,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Experience-replay Innovative Dynamics**|Tuo Zhang et.al.|[2501.12199](http://arxiv.org/abs/2501.12199)|null|
 |**2025-01-12**|**Kolmogorov-Arnold Networks and Evolutionary Game Theory for More Personalized Cancer Treatment**|Sepinoud Azimi et.al.|[2501.07611](http://arxiv.org/abs/2501.07611)|null|
 |**2025-01-13**|**Eco-evolutionary dynamics of a trait-structured predator-prey model**|Manh Hong Duong et.al.|[2501.07379](http://arxiv.org/abs/2501.07379)|null|
 |**2025-01-13**|**Self-organized institutions in evolutionary dynamical-systems game**|Kenji Itao et.al.|[2501.07249](http://arxiv.org/abs/2501.07249)|null|
@@ -334,7 +335,7 @@
 |**2024-12-20**|**Multi-scale reconstruction of large supply networks**|Leonardo Niccolò Ialongo et.al.|[2412.16122](http://arxiv.org/abs/2412.16122)|null|
 |**2024-11-18**|**PALMS: Parallel Adaptive Lasso with Multi-directional Signals for Latent Networks Reconstruction**|Zhaoyu Xing et.al.|[2411.11464](http://arxiv.org/abs/2411.11464)|null|
 |**2024-09-13**|**End-to-end metasurface design for temperature imaging via broadband Planck-radiation regression**|Sophie Fisher et.al.|[2409.08456](http://arxiv.org/abs/2409.08456)|null|
-|**2024-09-06**|**Network reconstruction may not mean dynamics prediction**|Zhendong Yu et.al.|[2409.04240](http://arxiv.org/abs/2409.04240)|null|
+|**2025-01-20**|**Network reconstruction may not mean dynamics prediction**|Zhendong Yu et.al.|[2409.04240](http://arxiv.org/abs/2409.04240)|null|
 |**2024-11-15**|**Orientability of Undirected Phylogenetic Networks to a Desired Class: Practical Algorithms and Application to Tree-Child Orientation**|Tsuyoshi Urata et.al.|[2407.09776](http://arxiv.org/abs/2407.09776)|**[link](https://github.com/hayamizu-lab/tree-child-orienter)**|
 |**2024-11-25**|**Full Identification of a Growing and Branching Network's Spatio-Temporal Structures**|Thibault Chassereau et.al.|[2407.06824](http://arxiv.org/abs/2407.06824)|null|
 |**2024-10-21**|**A compact model of Escherichia coli core and biosynthetic metabolism**|Marco Corrao et.al.|[2406.16596](http://arxiv.org/abs/2406.16596)|**[link](https://github.com/marco-corrao/ich360_paper)**|
