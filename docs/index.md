@@ -531,6 +531,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Controllability scores of linear time-varying network systems**|Kota Umezu et.al.|[2501.13345](http://arxiv.org/abs/2501.13345)|null|
 |**2025-01-22**|**Uniform temporal trees**|Caelan Atamanchuk et.al.|[2501.13044](http://arxiv.org/abs/2501.13044)|null|
 |**2025-01-22**|**A Novel Tracking Framework for Devices in X-ray Leveraging Supplementary Cue-Driven Self-Supervised Features**|Saahil Islam et.al.|[2501.12958](http://arxiv.org/abs/2501.12958)|null|
 |**2025-01-16**|**Efficient Sampling of Temporal Networks with Preserved Causality Structure**|Felix I. Stamm et.al.|[2501.09856](http://arxiv.org/abs/2501.09856)|null|
