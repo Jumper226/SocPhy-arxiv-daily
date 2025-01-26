@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -28,7 +28,7 @@ layout: default
 |**2025-01-13**|**Self-organized institutions in evolutionary dynamical-systems game**|Kenji Itao et.al.|[2501.07249](http://arxiv.org/abs/2501.07249)|null|
 |**2025-01-13**|**Combined effect of incentives and coupling in multigames in two-layer networks**|Luo-Luo Jiang et.al.|[2501.07193](http://arxiv.org/abs/2501.07193)|null|
 |**2025-01-13**|**A New Concept of optimal control for epidemic spreading by Vaccination Technique for Assessing social optimum employing Pontryagins Maximum Principle**|Md. Mamun-Ur-Rashid Khan et.al.|[2501.07053](http://arxiv.org/abs/2501.07053)|null|
-|**2025-01-13**|**Statistical Modeling of Networked Evolutionary Public Goods Games**|Hiroyasu Ando et.al.|[2501.07007](http://arxiv.org/abs/2501.07007)|null|
+|**2025-01-13**|**Statistical Modeling of Networked Evolutionary Public Goods Games**|Hiroyasu Ando et.al.|[2501.07007](http://arxiv.org/abs/2501.07007)|**[link](https://github.com/Ankoudon/stergm-pgg)**|
 |**2025-01-11**|**Evolutionary game dynamics for higher-order interactions**|Jiachao Guo et.al.|[2501.06411](http://arxiv.org/abs/2501.06411)|null|
 |**2025-01-09**|**The global consensus on the risk management of autonomous driving**|Sebastian Krügel et.al.|[2501.05391](http://arxiv.org/abs/2501.05391)|null|
 |**2025-01-07**|**Kinetic theory of decentralized learning for smart active matter**|Gerhard Jung et.al.|[2501.03948](http://arxiv.org/abs/2501.03948)|null|
