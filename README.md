@@ -30,7 +30,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-21**|**Experience-replay Innovative Dynamics**|Tuo Zhang et.al.|[2501.12199](http://arxiv.org/abs/2501.12199)|null|
+|**2025-01-27**|**Will Systems of LLM Agents Cooperate: An Investigation into a Social Dilemma**|Richard Willis et.al.|[2501.16173](http://arxiv.org/abs/2501.16173)|null|
+|**2025-01-27**|**Quantifying the Self-Interest Level of Markov Social Dilemmas**|Richard Willis et.al.|[2501.16138](http://arxiv.org/abs/2501.16138)|null|
+|**2025-01-27**|**Experience-replay Innovative Dynamics**|Tuo Zhang et.al.|[2501.12199](http://arxiv.org/abs/2501.12199)|null|
 |**2025-01-12**|**Kolmogorov-Arnold Networks and Evolutionary Game Theory for More Personalized Cancer Treatment**|Sepinoud Azimi et.al.|[2501.07611](http://arxiv.org/abs/2501.07611)|null|
 |**2025-01-13**|**Eco-evolutionary dynamics of a trait-structured predator-prey model**|Manh Hong Duong et.al.|[2501.07379](http://arxiv.org/abs/2501.07379)|null|
 |**2025-01-13**|**Self-organized institutions in evolutionary dynamical-systems game**|Kenji Itao et.al.|[2501.07249](http://arxiv.org/abs/2501.07249)|null|
@@ -543,6 +545,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Generalizing Egocentric Temporal Neighborhoods to probe for spatial correlations in temporal networks and infer their topology**|Didier Le Bail et.al.|[2501.16070](http://arxiv.org/abs/2501.16070)|null|
 |**2025-01-23**|**Controllability scores of linear time-varying network systems**|Kota Umezu et.al.|[2501.13345](http://arxiv.org/abs/2501.13345)|null|
 |**2025-01-22**|**Uniform temporal trees**|Caelan Atamanchuk et.al.|[2501.13044](http://arxiv.org/abs/2501.13044)|null|
 |**2025-01-22**|**A Novel Tracking Framework for Devices in X-ray Leveraging Supplementary Cue-Driven Self-Supervised Features**|Saahil Islam et.al.|[2501.12958](http://arxiv.org/abs/2501.12958)|null|
