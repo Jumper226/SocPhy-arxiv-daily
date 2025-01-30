@@ -533,6 +533,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Parsimonious Hawkes Processes for temporal networks modelling**|Yuwei Zhu et.al.|[2501.17720](http://arxiv.org/abs/2501.17720)|null|
 |**2025-01-27**|**Generalizing Egocentric Temporal Neighborhoods to probe for spatial correlations in temporal networks and infer their topology**|Didier Le Bail et.al.|[2501.16070](http://arxiv.org/abs/2501.16070)|null|
 |**2025-01-23**|**Controllability scores of linear time-varying network systems**|Kota Umezu et.al.|[2501.13345](http://arxiv.org/abs/2501.13345)|null|
 |**2025-01-22**|**Uniform temporal trees**|Caelan Atamanchuk et.al.|[2501.13044](http://arxiv.org/abs/2501.13044)|null|
