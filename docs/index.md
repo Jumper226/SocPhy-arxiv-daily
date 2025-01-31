@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.30
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -326,7 +326,7 @@ layout: default
 |**2024-12-23**|**On the reconstruction limits of complex networks**|Charles Murphy et.al.|[2501.01437](http://arxiv.org/abs/2501.01437)|null|
 |**2024-12-20**|**Multi-scale reconstruction of large supply networks**|Leonardo Niccolò Ialongo et.al.|[2412.16122](http://arxiv.org/abs/2412.16122)|null|
 |**2024-11-18**|**PALMS: Parallel Adaptive Lasso with Multi-directional Signals for Latent Networks Reconstruction**|Zhaoyu Xing et.al.|[2411.11464](http://arxiv.org/abs/2411.11464)|null|
-|**2024-09-13**|**End-to-end metasurface design for temperature imaging via broadband Planck-radiation regression**|Sophie Fisher et.al.|[2409.08456](http://arxiv.org/abs/2409.08456)|null|
+|**2025-01-29**|**End-to-end metasurface design for temperature imaging via broadband Planck-radiation regression**|Sophie Fisher et.al.|[2409.08456](http://arxiv.org/abs/2409.08456)|null|
 |**2025-01-20**|**Network reconstruction may not mean dynamics prediction**|Zhendong Yu et.al.|[2409.04240](http://arxiv.org/abs/2409.04240)|null|
 |**2024-11-15**|**Orientability of Undirected Phylogenetic Networks to a Desired Class: Practical Algorithms and Application to Tree-Child Orientation**|Tsuyoshi Urata et.al.|[2407.09776](http://arxiv.org/abs/2407.09776)|**[link](https://github.com/hayamizu-lab/tree-child-orienter)**|
 |**2024-11-25**|**Full Identification of a Growing and Branching Network's Spatio-Temporal Structures**|Thibault Chassereau et.al.|[2407.06824](http://arxiv.org/abs/2407.06824)|null|
