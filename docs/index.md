@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Bottom-Up Reputation Promotes Cooperation with Multi-Agent Reinforcement Learning**|Tianyu Ren et.al.|[2502.01971](http://arxiv.org/abs/2502.01971)|null|
 |**2025-01-27**|**Will Systems of LLM Agents Cooperate: An Investigation into a Social Dilemma**|Richard Willis et.al.|[2501.16173](http://arxiv.org/abs/2501.16173)|**[link](https://github.com/willis-richard/evollm)**|
 |**2025-01-27**|**Quantifying the Self-Interest Level of Markov Social Dilemmas**|Richard Willis et.al.|[2501.16138](http://arxiv.org/abs/2501.16138)|null|
 |**2025-01-27**|**Experience-replay Innovative Dynamics**|Tuo Zhang et.al.|[2501.12199](http://arxiv.org/abs/2501.12199)|null|
@@ -533,6 +534,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Measuring social mobility in temporal networks**|Matthew Russell Barnes et.al.|[2502.02365](http://arxiv.org/abs/2502.02365)|null|
 |**2025-01-29**|**Parsimonious Hawkes Processes for temporal networks modelling**|Yuwei Zhu et.al.|[2501.17720](http://arxiv.org/abs/2501.17720)|null|
 |**2025-01-27**|**Generalizing Egocentric Temporal Neighborhoods to probe for spatial correlations in temporal networks and infer their topology**|Didier Le Bail et.al.|[2501.16070](http://arxiv.org/abs/2501.16070)|null|
 |**2025-01-31**|**Controllability scores of linear time-varying network systems**|Kota Umezu et.al.|[2501.13345](http://arxiv.org/abs/2501.13345)|null|
