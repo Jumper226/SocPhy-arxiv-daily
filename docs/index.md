@@ -22,6 +22,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Institutional Preferences in the Laboratory**|Qiankun Zhong et.al.|[2502.06748](http://arxiv.org/abs/2502.06748)|null|
+|**2025-02-10**|**Spatial Pattern Formation in Eco-Evolutionary Games with Environment-Driven Motion**|Tianyong Yao et.al.|[2502.06723](http://arxiv.org/abs/2502.06723)|null|
+|**2025-02-10**|**Hinderance of cooperation by individual solutions: Evolutionary dynamics of three-strategy games combining the prisoner's dilemma and stag hunt**|Hirofumi Takesue et.al.|[2502.06624](http://arxiv.org/abs/2502.06624)|null|
+|**2025-02-09**|**An Evolutionary Game With the Game Transitions Based on the Markov Process**|Minyu Feng et.al.|[2502.05742](http://arxiv.org/abs/2502.05742)|null|
+|**2025-02-08**|**Open Data in the Digital Economy: An Evolutionary Game Theory Perspective**|Qin Li et.al.|[2502.05604](http://arxiv.org/abs/2502.05604)|null|
 |**2025-02-05**|**Cooperation, satisfaction, and rationality in social games on complex networks with aspiration-driven players**|M. Aguilar-Janita et.al.|[2502.03109](http://arxiv.org/abs/2502.03109)|null|
 |**2025-02-04**|**When Less is More: Evolutionary Dynamics of Deception in a Sender-Receiver Game**|Eduardo V. M. Vieira et.al.|[2502.02713](http://arxiv.org/abs/2502.02713)|null|
 |**2025-02-04**|**Bottom-Up Reputation Promotes Cooperation with Multi-Agent Reinforcement Learning**|Tianyu Ren et.al.|[2502.01971](http://arxiv.org/abs/2502.01971)|**[link](https://github.com/itstyren/lr2)**|
