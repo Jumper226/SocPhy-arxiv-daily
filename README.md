@@ -30,6 +30,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**Statistical Reevaluation of the USP Classification Boundary: Smaller Planets Within 1 Day, Larger Period Ratios Below 2 Days**|Armaan V. Goyal et.al.|[2502.07773](http://arxiv.org/abs/2502.07773)|null|
+|**2025-02-11**|**Evolution of cooperation in a bimodal mixture of conditional cooperators**|Chenyang Zhao et.al.|[2502.07537](http://arxiv.org/abs/2502.07537)|null|
 |**2025-02-10**|**Institutional Preferences in the Laboratory**|Qiankun Zhong et.al.|[2502.06748](http://arxiv.org/abs/2502.06748)|null|
 |**2025-02-10**|**Spatial Pattern Formation in Eco-Evolutionary Games with Environment-Driven Motion**|Tianyong Yao et.al.|[2502.06723](http://arxiv.org/abs/2502.06723)|null|
 |**2025-02-10**|**Hinderance of cooperation by individual solutions: Evolutionary dynamics of three-strategy games combining the prisoner's dilemma and stag hunt**|Hirofumi Takesue et.al.|[2502.06624](http://arxiv.org/abs/2502.06624)|null|
