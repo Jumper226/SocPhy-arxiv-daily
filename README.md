@@ -344,6 +344,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Neural Network Reconstruction of Non-Gaussian Initial Conditions from Dark Matter Halos**|Jelte Bottema et.al.|[2502.11846](http://arxiv.org/abs/2502.11846)|null|
 |**2025-01-08**|**Optimal Inference of Asynchronous Boolean Network Models**|Guy Karlebach et.al.|[2501.02634](http://arxiv.org/abs/2501.02634)|null|
 |**2025-02-06**|**On the reconstruction limits of complex networks**|Charles Murphy et.al.|[2501.01437](http://arxiv.org/abs/2501.01437)|null|
 |**2024-12-20**|**Multi-scale reconstruction of large supply networks**|Leonardo Niccolò Ialongo et.al.|[2412.16122](http://arxiv.org/abs/2412.16122)|null|
