@@ -30,6 +30,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**Ranking Joint Policies in Dynamic Games using Evolutionary Dynamics**|Natalia Koliou et.al.|[2502.14724](http://arxiv.org/abs/2502.14724)|null|
 |**2025-02-13**|**Complex Network Modelling with Power-law Activating Patterns and Its Evolutionary Dynamics**|Ziyan Zeng et.al.|[2502.09768](http://arxiv.org/abs/2502.09768)|null|
 |**2025-02-13**|**Drivers of cooperation in social dilemmas on higher-order networks**|Onkar Sadekar et.al.|[2502.09446](http://arxiv.org/abs/2502.09446)|null|
 |**2025-02-11**|**Statistical Reevaluation of the USP Classification Boundary: Smaller Planets Within 1 Day, Larger Period Ratios Below 2 Days**|Armaan V. Goyal et.al.|[2502.07773](http://arxiv.org/abs/2502.07773)|null|
@@ -344,7 +345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-17**|**Neural Network Reconstruction of Non-Gaussian Initial Conditions from Dark Matter Halos**|Jelte Bottema et.al.|[2502.11846](http://arxiv.org/abs/2502.11846)|null|
+|**2025-02-17**|**Neural Network Reconstruction of Non-Gaussian Initial Conditions from Dark Matter Halos**|Jelte Bottema et.al.|[2502.11846](http://arxiv.org/abs/2502.11846)|**[link](https://github.com/wcoulton/compressedfisher)**|
 |**2025-01-08**|**Optimal Inference of Asynchronous Boolean Network Models**|Guy Karlebach et.al.|[2501.02634](http://arxiv.org/abs/2501.02634)|null|
 |**2025-02-06**|**On the reconstruction limits of complex networks**|Charles Murphy et.al.|[2501.01437](http://arxiv.org/abs/2501.01437)|null|
 |**2024-12-20**|**Multi-scale reconstruction of large supply networks**|Leonardo Niccolò Ialongo et.al.|[2412.16122](http://arxiv.org/abs/2412.16122)|null|
