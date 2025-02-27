@@ -548,6 +548,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Estimating Nodal Spreading Influence Using Partial Temporal Network**|Tianrui Mao et.al.|[2502.19350](http://arxiv.org/abs/2502.19350)|null|
 |**2025-02-23**|**Predictability of temporal network dynamics in normal ageing and brain pathology**|Annalisa Caligiuri et.al.|[2502.16557](http://arxiv.org/abs/2502.16557)|null|
 |**2025-02-04**|**Measuring social mobility in temporal networks**|Matthew Russell Barnes et.al.|[2502.02365](http://arxiv.org/abs/2502.02365)|null|
 |**2025-01-29**|**Parsimonious Hawkes Processes for temporal networks modelling**|Yuwei Zhu et.al.|[2501.17720](http://arxiv.org/abs/2501.17720)|null|
