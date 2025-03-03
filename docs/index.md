@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Response of social norms to individual differences in error-proneness**|Quang Anh Le et.al.|[2502.20773](http://arxiv.org/abs/2502.20773)|null|
 |**2025-02-24**|**Spontaneous Giving and Calculated Greed in Language Models**|Yuxuan Li et.al.|[2502.17720](http://arxiv.org/abs/2502.17720)|null|
 |**2025-02-20**|**Ranking Joint Policies in Dynamic Games using Evolutionary Dynamics**|Natalia Koliou et.al.|[2502.14724](http://arxiv.org/abs/2502.14724)|**[link](https://github.com/nataliakoliou/collaborative-graph-coloring-game)**|
 |**2025-02-13**|**Complex Network Modelling with Power-law Activating Patterns and Its Evolutionary Dynamics**|Ziyan Zeng et.al.|[2502.09768](http://arxiv.org/abs/2502.09768)|null|
@@ -548,6 +549,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**A Survey of Link Prediction in Temporal Networks**|Jiafeng Xiong et.al.|[2502.21185](http://arxiv.org/abs/2502.21185)|null|
 |**2025-02-26**|**Estimating Nodal Spreading Influence Using Partial Temporal Network**|Tianrui Mao et.al.|[2502.19350](http://arxiv.org/abs/2502.19350)|null|
 |**2025-02-23**|**Predictability of temporal network dynamics in normal ageing and brain pathology**|Annalisa Caligiuri et.al.|[2502.16557](http://arxiv.org/abs/2502.16557)|null|
 |**2025-02-04**|**Measuring social mobility in temporal networks**|Matthew Russell Barnes et.al.|[2502.02365](http://arxiv.org/abs/2502.02365)|null|
