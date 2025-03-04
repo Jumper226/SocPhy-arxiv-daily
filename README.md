@@ -31,7 +31,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-28**|**Response of social norms to individual differences in error-proneness**|Quang Anh Le et.al.|[2502.20773](http://arxiv.org/abs/2502.20773)|null|
-|**2025-02-24**|**Spontaneous Giving and Calculated Greed in Language Models**|Yuxuan Li et.al.|[2502.17720](http://arxiv.org/abs/2502.17720)|null|
+|**2025-03-03**|**Spontaneous Giving and Calculated Greed in Language Models**|Yuxuan Li et.al.|[2502.17720](http://arxiv.org/abs/2502.17720)|null|
 |**2025-02-20**|**Ranking Joint Policies in Dynamic Games using Evolutionary Dynamics**|Natalia Koliou et.al.|[2502.14724](http://arxiv.org/abs/2502.14724)|**[link](https://github.com/nataliakoliou/collaborative-graph-coloring-game)**|
 |**2025-02-13**|**Complex Network Modelling with Power-law Activating Patterns and Its Evolutionary Dynamics**|Ziyan Zeng et.al.|[2502.09768](http://arxiv.org/abs/2502.09768)|null|
 |**2025-02-13**|**Drivers of cooperation in social dilemmas on higher-order networks**|Onkar Sadekar et.al.|[2502.09446](http://arxiv.org/abs/2502.09446)|null|
