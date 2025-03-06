@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Evolutionary Prediction Games**|Eden Saig et.al.|[2503.03401](http://arxiv.org/abs/2503.03401)|null|
 |**2025-02-28**|**Response of social norms to individual differences in error-proneness**|Quang Anh Le et.al.|[2502.20773](http://arxiv.org/abs/2502.20773)|null|
 |**2025-03-03**|**Spontaneous Giving and Calculated Greed in Language Models**|Yuxuan Li et.al.|[2502.17720](http://arxiv.org/abs/2502.17720)|null|
 |**2025-02-20**|**Ranking Joint Policies in Dynamic Games using Evolutionary Dynamics**|Natalia Koliou et.al.|[2502.14724](http://arxiv.org/abs/2502.14724)|**[link](https://github.com/nataliakoliou/collaborative-graph-coloring-game)**|
