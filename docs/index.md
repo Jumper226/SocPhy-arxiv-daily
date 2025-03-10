@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Personalised strategy of allocating social goods in structured populations**|Yao Meng et.al.|[2503.05074](http://arxiv.org/abs/2503.05074)|null|
 |**2025-03-05**|**Evolutionary Prediction Games**|Eden Saig et.al.|[2503.03401](http://arxiv.org/abs/2503.03401)|null|
 |**2025-02-28**|**Response of social norms to individual differences in error-proneness**|Quang Anh Le et.al.|[2502.20773](http://arxiv.org/abs/2502.20773)|null|
 |**2025-03-03**|**Spontaneous Giving and Calculated Greed in Language Models**|Yuxuan Li et.al.|[2502.17720](http://arxiv.org/abs/2502.17720)|null|
