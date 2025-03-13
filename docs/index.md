@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -23,7 +23,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-07**|**Personalised strategy of allocating social goods in structured populations**|Yao Meng et.al.|[2503.05074](http://arxiv.org/abs/2503.05074)|null|
-|**2025-03-05**|**Evolutionary Prediction Games**|Eden Saig et.al.|[2503.03401](http://arxiv.org/abs/2503.03401)|null|
+|**2025-03-05**|**Evolutionary Prediction Games**|Eden Saig et.al.|[2503.03401](http://arxiv.org/abs/2503.03401)|**[link](https://github.com/edensaig/evolutionary-prediction-games)**|
 |**2025-02-28**|**Response of social norms to individual differences in error-proneness**|Quang Anh Le et.al.|[2502.20773](http://arxiv.org/abs/2502.20773)|null|
 |**2025-03-03**|**Spontaneous Giving and Calculated Greed in Language Models**|Yuxuan Li et.al.|[2502.17720](http://arxiv.org/abs/2502.17720)|null|
 |**2025-02-20**|**Ranking Joint Policies in Dynamic Games using Evolutionary Dynamics**|Natalia Koliou et.al.|[2502.14724](http://arxiv.org/abs/2502.14724)|**[link](https://github.com/nataliakoliou/collaborative-graph-coloring-game)**|
@@ -339,9 +339,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-10**|**Uncertainty quantification and posterior sampling for network reconstruction**|Tiago P. Peixoto et.al.|[2503.07736](http://arxiv.org/abs/2503.07736)|null|
+|**2025-03-10**|**Uncertainty quantification and posterior sampling for network reconstruction**|Tiago P. Peixoto et.al.|[2503.07736](http://arxiv.org/abs/2503.07736)|**[link](https://git.skewed.de/count0/graph-tool)**|
 |**2025-02-17**|**Neural Network Reconstruction of Non-Gaussian Initial Conditions from Dark Matter Halos**|Jelte Bottema et.al.|[2502.11846](http://arxiv.org/abs/2502.11846)|**[link](https://github.com/wcoulton/compressedfisher)**|
-|**2025-01-08**|**Optimal Inference of Asynchronous Boolean Network Models**|Guy Karlebach et.al.|[2501.02634](http://arxiv.org/abs/2501.02634)|null|
+|**2025-03-12**|**Optimal Inference of Asynchronous Boolean Network Models**|Guy Karlebach et.al.|[2501.02634](http://arxiv.org/abs/2501.02634)|null|
 |**2025-02-06**|**On the reconstruction limits of complex networks**|Charles Murphy et.al.|[2501.01437](http://arxiv.org/abs/2501.01437)|null|
 |**2024-12-20**|**Multi-scale reconstruction of large supply networks**|Leonardo Niccolò Ialongo et.al.|[2412.16122](http://arxiv.org/abs/2412.16122)|null|
 |**2024-11-18**|**PALMS: Parallel Adaptive Lasso with Multi-directional Signals for Latent Networks Reconstruction**|Zhaoyu Xing et.al.|[2411.11464](http://arxiv.org/abs/2411.11464)|null|
