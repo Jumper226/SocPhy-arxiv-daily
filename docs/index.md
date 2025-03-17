@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -23,7 +23,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-12**|**Media and responsible AI governance: a game-theoretic and LLM analysis**|Nataliya Balabanova et.al.|[2503.09858](http://arxiv.org/abs/2503.09858)|null|
-|**2025-03-11**|**evoBPE: Evolutionary Protein Sequence Tokenization**|Burak Suyunu et.al.|[2503.08838](http://arxiv.org/abs/2503.08838)|null|
+|**2025-03-11**|**evoBPE: Evolutionary Protein Sequence Tokenization**|Burak Suyunu et.al.|[2503.08838](http://arxiv.org/abs/2503.08838)|**[link](https://github.com/boun-tabi-lifelu/evolutionary-subword-tokenization)**|
 |**2025-03-07**|**Personalised strategy of allocating social goods in structured populations**|Yao Meng et.al.|[2503.05074](http://arxiv.org/abs/2503.05074)|null|
 |**2025-03-05**|**Evolutionary Prediction Games**|Eden Saig et.al.|[2503.03401](http://arxiv.org/abs/2503.03401)|**[link](https://github.com/edensaig/evolutionary-prediction-games)**|
 |**2025-02-28**|**Response of social norms to individual differences in error-proneness**|Quang Anh Le et.al.|[2502.20773](http://arxiv.org/abs/2502.20773)|null|
