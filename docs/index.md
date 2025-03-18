@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -40,7 +40,7 @@ layout: default
 |**2025-02-09**|**An Evolutionary Game With the Game Transitions Based on the Markov Process**|Minyu Feng et.al.|[2502.05742](http://arxiv.org/abs/2502.05742)|null|
 |**2025-02-08**|**Open Data in the Digital Economy: An Evolutionary Game Theory Perspective**|Qin Li et.al.|[2502.05604](http://arxiv.org/abs/2502.05604)|null|
 |**2025-02-05**|**Cooperation, satisfaction, and rationality in social games on complex networks with aspiration-driven players**|M. Aguilar-Janita et.al.|[2502.03109](http://arxiv.org/abs/2502.03109)|null|
-|**2025-02-04**|**When Less is More: Evolutionary Dynamics of Deception in a Sender-Receiver Game**|Eduardo V. M. Vieira et.al.|[2502.02713](http://arxiv.org/abs/2502.02713)|null|
+|**2025-03-16**|**When Less is More: Evolutionary Dynamics of Deception in a Sender-Receiver Game**|Eduardo V. M. Vieira et.al.|[2502.02713](http://arxiv.org/abs/2502.02713)|null|
 |**2025-02-04**|**Bottom-Up Reputation Promotes Cooperation with Multi-Agent Reinforcement Learning**|Tianyu Ren et.al.|[2502.01971](http://arxiv.org/abs/2502.01971)|**[link](https://github.com/itstyren/lr2)**|
 |**2025-01-27**|**Will Systems of LLM Agents Cooperate: An Investigation into a Social Dilemma**|Richard Willis et.al.|[2501.16173](http://arxiv.org/abs/2501.16173)|**[link](https://github.com/willis-richard/evollm)**|
 |**2025-01-27**|**Quantifying the Self-Interest Level of Markov Social Dilemmas**|Richard Willis et.al.|[2501.16138](http://arxiv.org/abs/2501.16138)|null|
