@@ -22,7 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-13**|**A theory of ecological invasions and its implications for eco-evolutionary dynamics**|Zhijie Feng et.al.|[2503.10865](http://arxiv.org/abs/2503.10865)|null|
+|**2025-03-18**|**SocialJax: An Evaluation Suite for Multi-agent Reinforcement Learning in Sequential Social Dilemmas**|Zihao Guo et.al.|[2503.14576](http://arxiv.org/abs/2503.14576)|null|
+|**2025-03-13**|**A theory of ecological invasions and its implications for eco-evolutionary dynamics**|Zhijie Feng et.al.|[2503.10865](http://arxiv.org/abs/2503.10865)|**[link](https://github.com/Emergent-Behaviors-in-Biology/invasion-theory)**|
 |**2025-03-12**|**Media and responsible AI governance: a game-theoretic and LLM analysis**|Nataliya Balabanova et.al.|[2503.09858](http://arxiv.org/abs/2503.09858)|null|
 |**2025-03-11**|**evoBPE: Evolutionary Protein Sequence Tokenization**|Burak Suyunu et.al.|[2503.08838](http://arxiv.org/abs/2503.08838)|**[link](https://github.com/boun-tabi-lifelu/evolutionary-subword-tokenization)**|
 |**2025-03-07**|**Personalised strategy of allocating social goods in structured populations**|Yao Meng et.al.|[2503.05074](http://arxiv.org/abs/2503.05074)|null|
