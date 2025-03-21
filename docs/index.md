@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Reconstructing simplicial complexes from evolutionary games**|Yin-Jie Ma et.al.|[2503.15923](http://arxiv.org/abs/2503.15923)|null|
 |**2025-03-18**|**SocialJax: An Evaluation Suite for Multi-agent Reinforcement Learning in Sequential Social Dilemmas**|Zihao Guo et.al.|[2503.14576](http://arxiv.org/abs/2503.14576)|null|
 |**2025-03-13**|**A theory of ecological invasions and its implications for eco-evolutionary dynamics**|Zhijie Feng et.al.|[2503.10865](http://arxiv.org/abs/2503.10865)|**[link](https://github.com/Emergent-Behaviors-in-Biology/invasion-theory)**|
 |**2025-03-12**|**Media and responsible AI governance: a game-theoretic and LLM analysis**|Nataliya Balabanova et.al.|[2503.09858](http://arxiv.org/abs/2503.09858)|null|
@@ -556,6 +557,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Sequential Spatial-Temporal Network for Interpretable Automatic Ultrasonic Assessment of Fetal Head during labor**|Jie Gan et.al.|[2503.15861](http://arxiv.org/abs/2503.15861)|null|
 |**2025-03-16**|**ASD Classification on Dynamic Brain Connectome using Temporal Random Walk with Transformer-based Dynamic Network Embedding**|Suchanuch Piriyasatit et.al.|[2503.12366](http://arxiv.org/abs/2503.12366)|null|
 |**2025-02-28**|**A Survey of Link Prediction in Temporal Networks**|Jiafeng Xiong et.al.|[2502.21185](http://arxiv.org/abs/2502.21185)|null|
 |**2025-02-26**|**Estimating Nodal Spreading Influence Using Partial Temporal Network**|Tianrui Mao et.al.|[2502.19350](http://arxiv.org/abs/2502.19350)|null|
