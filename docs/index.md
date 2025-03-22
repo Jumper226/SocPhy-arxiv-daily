@@ -558,7 +558,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-20**|**Sequential Spatial-Temporal Network for Interpretable Automatic Ultrasonic Assessment of Fetal Head during labor**|Jie Gan et.al.|[2503.15861](http://arxiv.org/abs/2503.15861)|null|
-|**2025-03-16**|**ASD Classification on Dynamic Brain Connectome using Temporal Random Walk with Transformer-based Dynamic Network Embedding**|Suchanuch Piriyasatit et.al.|[2503.12366](http://arxiv.org/abs/2503.12366)|null|
+|**2025-03-16**|**ASD Classification on Dynamic Brain Connectome using Temporal Random Walk with Transformer-based Dynamic Network Embedding**|Suchanuch Piriyasatit et.al.|[2503.12366](http://arxiv.org/abs/2503.12366)|**[link](https://github.com/suchanuchp/BrainTWT)**|
 |**2025-02-28**|**A Survey of Link Prediction in Temporal Networks**|Jiafeng Xiong et.al.|[2502.21185](http://arxiv.org/abs/2502.21185)|null|
 |**2025-02-26**|**Estimating Nodal Spreading Influence Using Partial Temporal Network**|Tianrui Mao et.al.|[2502.19350](http://arxiv.org/abs/2502.19350)|null|
 |**2025-02-23**|**Predictability of temporal network dynamics in normal ageing and brain pathology**|Annalisa Caligiuri et.al.|[2502.16557](http://arxiv.org/abs/2502.16557)|null|
