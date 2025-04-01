@@ -30,6 +30,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Reputation in public goods cooperation under double Q-learning protocol**|Kai Xie et.al.|[2503.23753](http://arxiv.org/abs/2503.23753)|null|
+|**2025-03-28**|**Passivity, No-Regret, and Convergent Learning in Contractive Games**|Hassan Abdelraouf et.al.|[2503.22850](http://arxiv.org/abs/2503.22850)|null|
+|**2025-03-28**|**Pareto-Nash Allocations under Incomplete Information: A Model of Stable Optima**|Alfred A. B. Mayaki et.al.|[2503.22825](http://arxiv.org/abs/2503.22825)|null|
 |**2025-03-22**|**Intelligence Sequencing and the Path-Dependence of Intelligence Evolution: AGI-First vs. DCI-First as Irreversible Attractors**|Andy E. Williams et.al.|[2503.17688](http://arxiv.org/abs/2503.17688)|null|
 |**2025-03-20**|**Reconstructing simplicial complexes from evolutionary games**|Yin-Jie Ma et.al.|[2503.15923](http://arxiv.org/abs/2503.15923)|null|
 |**2025-03-18**|**SocialJax: An Evaluation Suite for Multi-agent Reinforcement Learning in Sequential Social Dilemmas**|Zihao Guo et.al.|[2503.14576](http://arxiv.org/abs/2503.14576)|null|
