@@ -30,6 +30,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-01**|**A model and characterization of a class of symmetric semibounded operators**|M. I. Belishev et.al.|[2504.01000](http://arxiv.org/abs/2504.01000)|null|
+|**2025-03-28**|**Chaos and noise in evolutionary game dynamics**|Maria Alejandra Ramirez et.al.|[2504.00028](http://arxiv.org/abs/2504.00028)|null|
 |**2025-03-31**|**Reputation in public goods cooperation under double Q-learning protocol**|Kai Xie et.al.|[2503.23753](http://arxiv.org/abs/2503.23753)|null|
 |**2025-03-28**|**Passivity, No-Regret, and Convergent Learning in Contractive Games**|Hassan Abdelraouf et.al.|[2503.22850](http://arxiv.org/abs/2503.22850)|null|
 |**2025-03-28**|**Pareto-Nash Allocations under Incomplete Information: A Model of Stable Optima**|Alfred A. B. Mayaki et.al.|[2503.22825](http://arxiv.org/abs/2503.22825)|null|
@@ -358,6 +360,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Proposition of Affordance-Driven Environment Recognition Framework Using Symbol Networks in Large Language Models**|Kazuma Arii et.al.|[2504.01644](http://arxiv.org/abs/2504.01644)|null|
 |**2025-03-10**|**Uncertainty quantification and posterior sampling for network reconstruction**|Tiago P. Peixoto et.al.|[2503.07736](http://arxiv.org/abs/2503.07736)|**[link](https://git.skewed.de/count0/graph-tool)**|
 |**2025-02-17**|**Neural Network Reconstruction of Non-Gaussian Initial Conditions from Dark Matter Halos**|Jelte Bottema et.al.|[2502.11846](http://arxiv.org/abs/2502.11846)|**[link](https://github.com/wcoulton/compressedfisher)**|
 |**2025-03-12**|**Optimal Inference of Asynchronous Boolean Network Models**|Guy Karlebach et.al.|[2501.02634](http://arxiv.org/abs/2501.02634)|null|
