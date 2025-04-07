@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**The Vaccination Game on Networks**|Kausutua Tjikundi et.al.|[2504.03489](http://arxiv.org/abs/2504.03489)|null|
 |**2025-04-03**|**Bayesian eco-evolutionary game dynamics**|Arunava Patra et.al.|[2504.02399](http://arxiv.org/abs/2504.02399)|null|
 |**2025-04-01**|**A model and characterization of a class of symmetric semibounded operators**|M. I. Belishev et.al.|[2504.01000](http://arxiv.org/abs/2504.01000)|null|
 |**2025-03-28**|**Chaos and noise in evolutionary game dynamics**|Maria Alejandra Ramirez et.al.|[2504.00028](http://arxiv.org/abs/2504.00028)|null|
