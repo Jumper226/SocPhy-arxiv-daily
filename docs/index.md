@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Cooperation guides evolution in a minimal model of biological evolution**|Conor Houghton et.al.|[2504.05096](http://arxiv.org/abs/2504.05096)|null|
+|**2025-04-07**|**Group-Level Imitation May Stabilize Cooperation**|Pierre Bousseyroux et.al.|[2504.05086](http://arxiv.org/abs/2504.05086)|null|
 |**2025-04-04**|**The Vaccination Game on Networks**|Kausutua Tjikundi et.al.|[2504.03489](http://arxiv.org/abs/2504.03489)|null|
 |**2025-04-03**|**Bayesian eco-evolutionary game dynamics**|Arunava Patra et.al.|[2504.02399](http://arxiv.org/abs/2504.02399)|null|
 |**2025-04-01**|**A model and characterization of a class of symmetric semibounded operators**|M. I. Belishev et.al.|[2504.01000](http://arxiv.org/abs/2504.01000)|null|
@@ -566,6 +568,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**DP-LET: An Efficient Spatio-Temporal Network Traffic Prediction Framework**|Xintong Wang et.al.|[2504.03792](http://arxiv.org/abs/2504.03792)|null|
 |**2025-03-21**|**Echo-E $^3$ Net: Efficient Endo-Epi Spatio-Temporal Network for Ejection Fraction Estimation**|Moein Heidari et.al.|[2503.17543](http://arxiv.org/abs/2503.17543)|null|
 |**2025-03-20**|**Sequential Spatial-Temporal Network for Interpretable Automatic Ultrasonic Assessment of Fetal Head during labor**|Jie Gan et.al.|[2503.15861](http://arxiv.org/abs/2503.15861)|null|
 |**2025-03-16**|**ASD Classification on Dynamic Brain Connectome using Temporal Random Walk with Transformer-based Dynamic Network Embedding**|Suchanuch Piriyasatit et.al.|[2503.12366](http://arxiv.org/abs/2503.12366)|**[link](https://github.com/suchanuchp/BrainTWT)**|
