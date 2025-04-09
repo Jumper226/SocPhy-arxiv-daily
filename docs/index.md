@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Co-evolution of cooperation and resource allocation in the advantageous environment-based spatial multi-game using adaptive control**|Chengbin Sun et.al.|[2504.06112](http://arxiv.org/abs/2504.06112)|null|
+|**2025-04-08**|**Replicator-mutator dynamics for public goods games with institutional incentives**|Nataliya A. Balabanova et.al.|[2504.05961](http://arxiv.org/abs/2504.05961)|null|
 |**2025-04-07**|**Cooperation guides evolution in a minimal model of biological evolution**|Conor Houghton et.al.|[2504.05096](http://arxiv.org/abs/2504.05096)|null|
 |**2025-04-07**|**Group-Level Imitation May Stabilize Cooperation**|Pierre Bousseyroux et.al.|[2504.05086](http://arxiv.org/abs/2504.05086)|null|
 |**2025-04-04**|**The Vaccination Game on Networks**|Kausutua Tjikundi et.al.|[2504.03489](http://arxiv.org/abs/2504.03489)|null|
