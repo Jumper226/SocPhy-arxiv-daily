@@ -30,6 +30,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Evolutionary dynamics of continuous public goods games in structured populations**|Jing Luo et.al.|[2504.06769](http://arxiv.org/abs/2504.06769)|null|
+|**2025-04-08**|**Cooperative Dilemmas in Rational Debate**|Toby Handfield et.al.|[2504.06485](http://arxiv.org/abs/2504.06485)|null|
 |**2025-04-08**|**Co-evolution of cooperation and resource allocation in the advantageous environment-based spatial multi-game using adaptive control**|Chengbin Sun et.al.|[2504.06112](http://arxiv.org/abs/2504.06112)|null|
 |**2025-04-08**|**Replicator-mutator dynamics for public goods games with institutional incentives**|Nataliya A. Balabanova et.al.|[2504.05961](http://arxiv.org/abs/2504.05961)|null|
 |**2025-04-07**|**Cooperation guides evolution in a minimal model of biological evolution**|Conor Houghton et.al.|[2504.05096](http://arxiv.org/abs/2504.05096)|null|
