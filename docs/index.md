@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Do LLMs trust AI regulation? Emerging behaviour of game-theoretic LLM agents**|Alessio Buscemi et.al.|[2504.08640](http://arxiv.org/abs/2504.08640)|null|
 |**2025-04-09**|**Evolutionary dynamics of continuous public goods games in structured populations**|Jing Luo et.al.|[2504.06769](http://arxiv.org/abs/2504.06769)|null|
 |**2025-04-08**|**Cooperative Dilemmas in Rational Debate**|Toby Handfield et.al.|[2504.06485](http://arxiv.org/abs/2504.06485)|null|
 |**2025-04-08**|**Co-evolution of cooperation and resource allocation in the advantageous environment-based spatial multi-game using adaptive control**|Chengbin Sun et.al.|[2504.06112](http://arxiv.org/abs/2504.06112)|null|
@@ -572,6 +573,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Passive Underwater Acoustic Signal Separation based on Feature Decoupling Dual-path Network**|Yucheng Liu et.al.|[2504.08371](http://arxiv.org/abs/2504.08371)|null|
+|**2025-04-10**|**Between Linear and Sinusoidal: Rethinking the Time Encoder in Dynamic Graph Learning**|Hsing-Huan Chung et.al.|[2504.08129](http://arxiv.org/abs/2504.08129)|null|
 |**2025-04-04**|**DP-LET: An Efficient Spatio-Temporal Network Traffic Prediction Framework**|Xintong Wang et.al.|[2504.03792](http://arxiv.org/abs/2504.03792)|null|
 |**2025-03-21**|**Echo-E $^3$ Net: Efficient Endo-Epi Spatio-Temporal Network for Ejection Fraction Estimation**|Moein Heidari et.al.|[2503.17543](http://arxiv.org/abs/2503.17543)|null|
 |**2025-03-20**|**Sequential Spatial-Temporal Network for Interpretable Automatic Ultrasonic Assessment of Fetal Head during labor**|Jie Gan et.al.|[2503.15861](http://arxiv.org/abs/2503.15861)|null|
