@@ -30,6 +30,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Full Cooperation in Repeated Multi-Player Games on Hypergraphs**|Juyi Li et.al.|[2504.10910](http://arxiv.org/abs/2504.10910)|null|
 |**2025-04-14**|**Position Uncertainty in a Prisoner's Dilemma Game : An Experiment**|Chowdhury Mohammad Sakib Anwar et.al.|[2504.10441](http://arxiv.org/abs/2504.10441)|null|
 |**2025-04-11**|**Do LLMs trust AI regulation? Emerging behaviour of game-theoretic LLM agents**|Alessio Buscemi et.al.|[2504.08640](http://arxiv.org/abs/2504.08640)|null|
 |**2025-04-09**|**Evolutionary dynamics of continuous public goods games in structured populations**|Jing Luo et.al.|[2504.06769](http://arxiv.org/abs/2504.06769)|null|
@@ -587,6 +588,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Influence Maximization in Temporal Social Networks with a Cold-Start Problem: A Supervised Approach**|Laixin Xie et.al.|[2504.11245](http://arxiv.org/abs/2504.11245)|null|
 |**2025-04-14**|**Air Quality Prediction with A Meteorology-Guided Modality-Decoupled Spatio-Temporal Network**|Hang Yin et.al.|[2504.10014](http://arxiv.org/abs/2504.10014)|null|
 |**2025-04-11**|**Passive Underwater Acoustic Signal Separation based on Feature Decoupling Dual-path Network**|Yucheng Liu et.al.|[2504.08371](http://arxiv.org/abs/2504.08371)|null|
 |**2025-04-10**|**Between Linear and Sinusoidal: Rethinking the Time Encoder in Dynamic Graph Learning**|Hsing-Huan Chung et.al.|[2504.08129](http://arxiv.org/abs/2504.08129)|**[link](https://github.com/hsinghuan/dg-linear-time)**|
