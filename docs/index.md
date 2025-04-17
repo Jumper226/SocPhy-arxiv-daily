@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Higher-order evolutionary dynamics with game transitions**|Yi-Duo Chen et.al.|[2504.11911](http://arxiv.org/abs/2504.11911)|null|
 |**2025-04-15**|**Full Cooperation in Repeated Multi-Player Games on Hypergraphs**|Juyi Li et.al.|[2504.10910](http://arxiv.org/abs/2504.10910)|null|
 |**2025-04-14**|**Position Uncertainty in a Prisoner's Dilemma Game : An Experiment**|Chowdhury Mohammad Sakib Anwar et.al.|[2504.10441](http://arxiv.org/abs/2504.10441)|null|
 |**2025-04-11**|**Do LLMs trust AI regulation? Emerging behaviour of game-theoretic LLM agents**|Alessio Buscemi et.al.|[2504.08640](http://arxiv.org/abs/2504.08640)|null|
@@ -361,6 +362,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Reconstructions and Dynamics of $β$ -Lithium Thiophosphate Surfaces**|Hanna Türk et.al.|[2504.11553](http://arxiv.org/abs/2504.11553)|null|
 |**2025-04-15**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444](http://arxiv.org/abs/2504.10444)|null|
 |**2025-04-02**|**Proposition of Affordance-Driven Environment Recognition Framework Using Symbol Networks in Large Language Models**|Kazuma Arii et.al.|[2504.01644](http://arxiv.org/abs/2504.01644)|null|
 |**2025-03-10**|**Uncertainty quantification and posterior sampling for network reconstruction**|Tiago P. Peixoto et.al.|[2503.07736](http://arxiv.org/abs/2503.07736)|**[link](https://git.skewed.de/count0/graph-tool)**|
