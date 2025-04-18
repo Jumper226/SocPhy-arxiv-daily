@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-12**|**Word Embeddings Track Social Group Changes Across 70 Years in China**|Yuxi Ma et.al.|[2504.12327](http://arxiv.org/abs/2504.12327)|null|
 |**2025-04-16**|**Higher-order evolutionary dynamics with game transitions**|Yi-Duo Chen et.al.|[2504.11911](http://arxiv.org/abs/2504.11911)|null|
 |**2025-04-15**|**Full Cooperation in Repeated Multi-Player Games on Hypergraphs**|Juyi Li et.al.|[2504.10910](http://arxiv.org/abs/2504.10910)|null|
 |**2025-04-14**|**Position Uncertainty in a Prisoner's Dilemma Game : An Experiment**|Chowdhury Mohammad Sakib Anwar et.al.|[2504.10441](http://arxiv.org/abs/2504.10441)|null|
