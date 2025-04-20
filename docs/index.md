@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -579,7 +579,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-15**|**Influence Maximization in Temporal Social Networks with a Cold-Start Problem: A Supervised Approach**|Laixin Xie et.al.|[2504.11245](http://arxiv.org/abs/2504.11245)|null|
+|**2025-04-15**|**Influence Maximization in Temporal Social Networks with a Cold-Start Problem: A Supervised Approach**|Laixin Xie et.al.|[2504.11245](http://arxiv.org/abs/2504.11245)|**[link](https://github.com/laixinn/ICWSM25-Influence-Maximization)**|
 |**2025-04-14**|**Air Quality Prediction with A Meteorology-Guided Modality-Decoupled Spatio-Temporal Network**|Hang Yin et.al.|[2504.10014](http://arxiv.org/abs/2504.10014)|null|
 |**2025-04-11**|**Passive Underwater Acoustic Signal Separation based on Feature Decoupling Dual-path Network**|Yucheng Liu et.al.|[2504.08371](http://arxiv.org/abs/2504.08371)|null|
 |**2025-04-10**|**Between Linear and Sinusoidal: Rethinking the Time Encoder in Dynamic Graph Learning**|Hsing-Huan Chung et.al.|[2504.08129](http://arxiv.org/abs/2504.08129)|**[link](https://github.com/hsinghuan/dg-linear-time)**|
