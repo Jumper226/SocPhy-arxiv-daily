@@ -591,6 +591,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Auto-FEDUS: Autoregressive Generative Modeling of Doppler Ultrasound Signals from Fetal Electrocardiograms**|Alireza Rafiei et.al.|[2504.13233](http://arxiv.org/abs/2504.13233)|null|
 |**2025-04-15**|**Influence Maximization in Temporal Social Networks with a Cold-Start Problem: A Supervised Approach**|Laixin Xie et.al.|[2504.11245](http://arxiv.org/abs/2504.11245)|**[link](https://github.com/laixinn/ICWSM25-Influence-Maximization)**|
 |**2025-04-14**|**Air Quality Prediction with A Meteorology-Guided Modality-Decoupled Spatio-Temporal Network**|Hang Yin et.al.|[2504.10014](http://arxiv.org/abs/2504.10014)|null|
 |**2025-04-11**|**Passive Underwater Acoustic Signal Separation based on Feature Decoupling Dual-path Network**|Yucheng Liu et.al.|[2504.08371](http://arxiv.org/abs/2504.08371)|null|
