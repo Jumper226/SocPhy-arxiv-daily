@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-20**|**Data-Driven Evolutionary Game-Based Model Predictive Control for Hybrid Renewable Energy Dispatch in Autonomous Ships**|Yaoze Liu et.al.|[2504.14750](http://arxiv.org/abs/2504.14750)|null|
+|**2025-04-15**|**Compendium of Advances in Game Theory: Classical, Differential, Algorithmic, Non-Archimedean and Quantum Game**|Bourama Toni et.al.|[2504.13939](http://arxiv.org/abs/2504.13939)|null|
 |**2025-04-12**|**Word Embeddings Track Social Group Changes Across 70 Years in China**|Yuxi Ma et.al.|[2504.12327](http://arxiv.org/abs/2504.12327)|null|
 |**2025-04-16**|**Higher-order evolutionary dynamics with game transitions**|Yi-Duo Chen et.al.|[2504.11911](http://arxiv.org/abs/2504.11911)|null|
 |**2025-04-15**|**Full Cooperation in Repeated Multi-Player Games on Hypergraphs**|Juyi Li et.al.|[2504.10910](http://arxiv.org/abs/2504.10910)|null|
