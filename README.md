@@ -30,6 +30,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Evolutionary dynamics in state-feedback public goods games with peer punishment**|Qiushuang Wang et.al.|[2504.16659](http://arxiv.org/abs/2504.16659)|null|
+|**2025-04-22**|**SLiM-Gym: Reinforcement Learning for Population Genetics**|Niko Zuppas et.al.|[2504.16301](http://arxiv.org/abs/2504.16301)|null|
 |**2025-04-20**|**Data-Driven Evolutionary Game-Based Model Predictive Control for Hybrid Renewable Energy Dispatch in Autonomous Ships**|Yaoze Liu et.al.|[2504.14750](http://arxiv.org/abs/2504.14750)|null|
 |**2025-04-15**|**Compendium of Advances in Game Theory: Classical, Differential, Algorithmic, Non-Archimedean and Quantum Game**|Bourama Toni et.al.|[2504.13939](http://arxiv.org/abs/2504.13939)|null|
 |**2025-04-12**|**Word Embeddings Track Social Group Changes Across 70 Years in China**|Yuxi Ma et.al.|[2504.12327](http://arxiv.org/abs/2504.12327)|null|
