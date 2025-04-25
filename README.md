@@ -30,6 +30,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**A guide to modeling plasmid co-infection dynamics**|Berit Siedentop et.al.|[2504.17085](http://arxiv.org/abs/2504.17085)|null|
 |**2025-04-23**|**Evolutionary dynamics in state-feedback public goods games with peer punishment**|Qiushuang Wang et.al.|[2504.16659](http://arxiv.org/abs/2504.16659)|null|
 |**2025-04-22**|**SLiM-Gym: Reinforcement Learning for Population Genetics**|Niko Zuppas et.al.|[2504.16301](http://arxiv.org/abs/2504.16301)|null|
 |**2025-04-20**|**Data-Driven Evolutionary Game-Based Model Predictive Control for Hybrid Renewable Energy Dispatch in Autonomous Ships**|Yaoze Liu et.al.|[2504.14750](http://arxiv.org/abs/2504.14750)|null|
@@ -377,6 +378,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**A Novel Graph Transformer Framework for Gene Regulatory Network Inference**|Binon Teji et.al.|[2504.16961](http://arxiv.org/abs/2504.16961)|null|
 |**2025-04-15**|**Reconstructions and Dynamics of $β$ -Lithium Thiophosphate Surfaces**|Hanna Türk et.al.|[2504.11553](http://arxiv.org/abs/2504.11553)|null|
 |**2025-04-15**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444](http://arxiv.org/abs/2504.10444)|null|
 |**2025-04-02**|**Proposition of Affordance-Driven Environment Recognition Framework Using Symbol Networks in Large Language Models**|Kazuma Arii et.al.|[2504.01644](http://arxiv.org/abs/2504.01644)|null|
@@ -595,6 +597,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Network Sampling: An Overview and Comparative Analysis**|Quoc Chuong Nguyen et.al.|[2504.17701](http://arxiv.org/abs/2504.17701)|null|
 |**2025-04-17**|**Auto-FEDUS: Autoregressive Generative Modeling of Doppler Ultrasound Signals from Fetal Electrocardiograms**|Alireza Rafiei et.al.|[2504.13233](http://arxiv.org/abs/2504.13233)|null|
 |**2025-04-15**|**Influence Maximization in Temporal Social Networks with a Cold-Start Problem: A Supervised Approach**|Laixin Xie et.al.|[2504.11245](http://arxiv.org/abs/2504.11245)|**[link](https://github.com/laixinn/ICWSM25-Influence-Maximization)**|
 |**2025-04-14**|**Air Quality Prediction with A Meteorology-Guided Modality-Decoupled Spatio-Temporal Network**|Hang Yin et.al.|[2504.10014](http://arxiv.org/abs/2504.10014)|null|
