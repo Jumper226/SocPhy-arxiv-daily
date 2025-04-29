@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -600,7 +600,7 @@ layout: default
 |**2025-02-23**|**Predictability of temporal network dynamics in normal ageing and brain pathology**|Annalisa Caligiuri et.al.|[2502.16557](http://arxiv.org/abs/2502.16557)|null|
 |**2025-02-04**|**Measuring social mobility in temporal networks**|Matthew Russell Barnes et.al.|[2502.02365](http://arxiv.org/abs/2502.02365)|null|
 |**2025-01-29**|**Parsimonious Hawkes Processes for temporal networks modelling**|Yuwei Zhu et.al.|[2501.17720](http://arxiv.org/abs/2501.17720)|null|
-|**2025-01-27**|**Generalizing Egocentric Temporal Neighborhoods to probe for spatial correlations in temporal networks and infer their topology**|Didier Le Bail et.al.|[2501.16070](http://arxiv.org/abs/2501.16070)|null|
+|**2025-04-28**|**Generalizing Egocentric Temporal Neighborhoods to probe for spatial correlations in temporal networks and infer their topology**|Didier Le Bail et.al.|[2501.16070](http://arxiv.org/abs/2501.16070)|null|
 |**2025-01-31**|**Controllability scores of linear time-varying network systems**|Kota Umezu et.al.|[2501.13345](http://arxiv.org/abs/2501.13345)|null|
 |**2025-01-22**|**Uniform temporal trees**|Caelan Atamanchuk et.al.|[2501.13044](http://arxiv.org/abs/2501.13044)|null|
 |**2025-01-22**|**A Novel Tracking Framework for Devices in X-ray Leveraging Supplementary Cue-Driven Self-Supervised Features**|Saahil Islam et.al.|[2501.12958](http://arxiv.org/abs/2501.12958)|null|
