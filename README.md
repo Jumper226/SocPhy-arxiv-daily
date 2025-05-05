@@ -379,6 +379,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**DebtStreamness: An Ecological Approach to Credit Flows in Inter-Firm Networks**|Anahí Rodríguez-Martínez et.al.|[2505.01326](http://arxiv.org/abs/2505.01326)|null|
 |**2025-04-29**|**Influence network reconstruction from discrete time-series of count data modelled by multidimensional Hawkes processes**|Naratip Santitissadeekorn et.al.|[2504.20758](http://arxiv.org/abs/2504.20758)|null|
 |**2025-04-29**|**Triadic Closure-Heterogeneity-Harmony GCN for Link Prediction**|Ke-ke Shang et.al.|[2504.20492](http://arxiv.org/abs/2504.20492)|null|
 |**2025-04-23**|**A Novel Graph Transformer Framework for Gene Regulatory Network Inference**|Binon Teji et.al.|[2504.16961](http://arxiv.org/abs/2504.16961)|null|
