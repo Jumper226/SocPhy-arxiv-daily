@@ -30,6 +30,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**Heterosynaptic Circuits Are Universal Gradient Machines**|Liu Ziyin et.al.|[2505.02248](http://arxiv.org/abs/2505.02248)|null|
 |**2025-04-28**|**Evolution of Cooperation in LLM-Agent Societies: A Preliminary Study Using Different Punishment Strategies**|Kavindu Warnakulasuriya et.al.|[2504.19487](http://arxiv.org/abs/2504.19487)|null|
 |**2025-04-23**|**A guide to modeling plasmid co-infection dynamics**|Berit Siedentop et.al.|[2504.17085](http://arxiv.org/abs/2504.17085)|null|
 |**2025-04-23**|**Evolutionary dynamics in state-feedback public goods games with peer punishment**|Qiushuang Wang et.al.|[2504.16659](http://arxiv.org/abs/2504.16659)|null|
