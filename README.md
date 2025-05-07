@@ -602,6 +602,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**The classification of Alzheimer's disease and mild cognitive impairment improved by dynamic functional network analysis**|Nicolas Rubido et.al.|[2505.03458](http://arxiv.org/abs/2505.03458)|null|
 |**2025-05-02**|**Network Sampling: An Overview and Comparative Analysis**|Quoc Chuong Nguyen et.al.|[2504.17701](http://arxiv.org/abs/2504.17701)|null|
 |**2025-04-17**|**Auto-FEDUS: Autoregressive Generative Modeling of Doppler Ultrasound Signals from Fetal Electrocardiograms**|Alireza Rafiei et.al.|[2504.13233](http://arxiv.org/abs/2504.13233)|null|
 |**2025-04-15**|**Influence Maximization in Temporal Social Networks with a Cold-Start Problem: A Supervised Approach**|Laixin Xie et.al.|[2504.11245](http://arxiv.org/abs/2504.11245)|**[link](https://github.com/laixinn/ICWSM25-Influence-Maximization)**|
