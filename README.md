@@ -30,6 +30,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Evolution of cooperation and competition in multilayer networks**|Wenqiang Zhu et.al.|[2505.07213](http://arxiv.org/abs/2505.07213)|null|
+|**2025-05-11**|**More Than Opinions: The Role of Values in Shaping Fairness and Status in the Ultimatum Game within Structured Societies**|Hana Krakovská et.al.|[2505.07060](http://arxiv.org/abs/2505.07060)|null|
+|**2025-05-10**|**Adversarial Coevolutionary Illumination with Generational Adversarial MAP-Elites**|Timothée Anne et.al.|[2505.06617](http://arxiv.org/abs/2505.06617)|null|
 |**2025-05-09**|**Evolutionary ecology of words**|Reiji Suzuki et.al.|[2505.05863](http://arxiv.org/abs/2505.05863)|null|
 |**2025-05-07**|**PPO-ACT: Proximal Policy Optimization with Adversarial Curriculum Transfer for Spatial Public Goods Games**|Zhaoqilin Yang et.al.|[2505.04302](http://arxiv.org/abs/2505.04302)|null|
 |**2025-05-04**|**Heterosynaptic Circuits Are Universal Gradient Machines**|Liu Ziyin et.al.|[2505.02248](http://arxiv.org/abs/2505.02248)|null|
@@ -604,6 +607,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-10**|**Modelling and Study of t , Peak and Effective Diameter in Temporal Networks**|Zahra Farahi et.al.|[2505.06719](http://arxiv.org/abs/2505.06719)|null|
 |**2025-05-06**|**The classification of Alzheimer's disease and mild cognitive impairment improved by dynamic functional network analysis**|Nicolas Rubido et.al.|[2505.03458](http://arxiv.org/abs/2505.03458)|null|
 |**2025-05-02**|**Network Sampling: An Overview and Comparative Analysis**|Quoc Chuong Nguyen et.al.|[2504.17701](http://arxiv.org/abs/2504.17701)|null|
 |**2025-04-17**|**Auto-FEDUS: Autoregressive Generative Modeling of Doppler Ultrasound Signals from Fetal Electrocardiograms**|Alireza Rafiei et.al.|[2504.13233](http://arxiv.org/abs/2504.13233)|null|
