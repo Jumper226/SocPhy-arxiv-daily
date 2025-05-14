@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## higher-order network
@@ -24,7 +24,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-12**|**Evolution of cooperation and competition in multilayer networks**|Wenqiang Zhu et.al.|[2505.07213](http://arxiv.org/abs/2505.07213)|null|
 |**2025-05-11**|**More Than Opinions: The Role of Values in Shaping Fairness and Status in the Ultimatum Game within Structured Societies**|Hana Krakovská et.al.|[2505.07060](http://arxiv.org/abs/2505.07060)|null|
-|**2025-05-10**|**Adversarial Coevolutionary Illumination with Generational Adversarial MAP-Elites**|Timothée Anne et.al.|[2505.06617](http://arxiv.org/abs/2505.06617)|null|
+|**2025-05-10**|**Adversarial Coevolutionary Illumination with Generational Adversarial MAP-Elites**|Timothée Anne et.al.|[2505.06617](http://arxiv.org/abs/2505.06617)|**[link](https://github.com/Timothee-ANNE/GAME)**|
 |**2025-05-09**|**Evolutionary ecology of words**|Reiji Suzuki et.al.|[2505.05863](http://arxiv.org/abs/2505.05863)|null|
 |**2025-05-07**|**PPO-ACT: Proximal Policy Optimization with Adversarial Curriculum Transfer for Spatial Public Goods Games**|Zhaoqilin Yang et.al.|[2505.04302](http://arxiv.org/abs/2505.04302)|null|
 |**2025-05-04**|**Heterosynaptic Circuits Are Universal Gradient Machines**|Liu Ziyin et.al.|[2505.02248](http://arxiv.org/abs/2505.02248)|null|

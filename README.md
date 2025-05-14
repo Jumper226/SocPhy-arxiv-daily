@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2019-12-18**|**Higher-Order Topology in Bismuth**|Frank Schindler et.al.|[1802.02585](http://arxiv.org/abs/1802.02585)|null|
 |**2017-10-08**|**An Expressive Probabilistic Temporal Logic**|Bruno Woltzenlogel Paleo et.al.|[1603.07453](http://arxiv.org/abs/1603.07453)|**[link](https://github.com/Paradoxika/ProbLogic)**|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## evolutionary game
 
@@ -32,7 +32,7 @@
 |---|---|---|---|---|
 |**2025-05-12**|**Evolution of cooperation and competition in multilayer networks**|Wenqiang Zhu et.al.|[2505.07213](http://arxiv.org/abs/2505.07213)|null|
 |**2025-05-11**|**More Than Opinions: The Role of Values in Shaping Fairness and Status in the Ultimatum Game within Structured Societies**|Hana Krakovská et.al.|[2505.07060](http://arxiv.org/abs/2505.07060)|null|
-|**2025-05-10**|**Adversarial Coevolutionary Illumination with Generational Adversarial MAP-Elites**|Timothée Anne et.al.|[2505.06617](http://arxiv.org/abs/2505.06617)|null|
+|**2025-05-10**|**Adversarial Coevolutionary Illumination with Generational Adversarial MAP-Elites**|Timothée Anne et.al.|[2505.06617](http://arxiv.org/abs/2505.06617)|**[link](https://github.com/Timothee-ANNE/GAME)**|
 |**2025-05-09**|**Evolutionary ecology of words**|Reiji Suzuki et.al.|[2505.05863](http://arxiv.org/abs/2505.05863)|null|
 |**2025-05-07**|**PPO-ACT: Proximal Policy Optimization with Adversarial Curriculum Transfer for Spatial Public Goods Games**|Zhaoqilin Yang et.al.|[2505.04302](http://arxiv.org/abs/2505.04302)|null|
 |**2025-05-04**|**Heterosynaptic Circuits Are Universal Gradient Machines**|Liu Ziyin et.al.|[2505.02248](http://arxiv.org/abs/2505.02248)|null|
@@ -379,7 +379,7 @@
 |**2023-06-02**|**Deterministic Approximation of a Stochastic Imitation Dynamics with Memory**|Ozgur Aydogmus et.al.|[2306.01448](http://arxiv.org/abs/2306.01448)|null|
 |**2024-02-25**|**Evolutionary dynamics with temporal higher-order interactions**|Xiaochen Wang et.al.|[2306.01300](http://arxiv.org/abs/2306.01300)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## network reconstruction
 
@@ -601,7 +601,7 @@
 |**2016-05-27**|**Growth against entropy in bacterial metabolism: the phenotypic trade-off behind empirical growth rate distributions in E. coli**|Daniele De Martino et.al.|[1601.03243](http://arxiv.org/abs/1601.03243)|null|
 |**2015-12-18**|**Network Cartography: Seeing the Forest and the Trees**|Jia Wang et.al.|[1512.06021](http://arxiv.org/abs/1512.06021)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 ## temporal network
 
@@ -879,7 +879,7 @@
 |**2023-04-14**|**The emergence of burstiness in temporal networks**|Anzhi Sheng et.al.|[2112.10527](http://arxiv.org/abs/2112.10527)|null|
 |**2021-12-15**|**Epidemic spreading in populations of mobile agents with adaptive behavioral response**|Paulo Cesar Ventura et.al.|[2112.07829](http://arxiv.org/abs/2112.07829)|null|
 
-<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jumper226/SocPhy-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jumper226/SocPhy-arxiv-daily/graphs/contributors
