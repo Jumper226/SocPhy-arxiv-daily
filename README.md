@@ -608,6 +608,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs**|Le Cheng et.al.|[2505.12910](http://arxiv.org/abs/2505.12910)|null|
+|**2025-05-18**|**Bursty Switching Dynamics Promotes the Collapse of Network Topologies**|Ziyan Zeng et.al.|[2505.12417](http://arxiv.org/abs/2505.12417)|null|
 |**2025-05-15**|**From Static to Dynamic: Exploring Temporal Networks in Systems Biology**|Abir Khazaal et.al.|[2505.10741](http://arxiv.org/abs/2505.10741)|null|
 |**2025-05-10**|**Modelling and Study of t , Peak and Effective Diameter in Temporal Networks**|Zahra Farahi et.al.|[2505.06719](http://arxiv.org/abs/2505.06719)|null|
 |**2025-05-06**|**The classification of Alzheimer's disease and mild cognitive impairment improved by dynamic functional network analysis**|Nicolas Rubido et.al.|[2505.03458](http://arxiv.org/abs/2505.03458)|null|
